@@ -1,0 +1,1671 @@
+%PDF-1.4
+
+1 0 obj
+<<
+/Type /Pages
+/Count 0
+/Kids [ ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (Odoo)
+/Creator (Odoo)
+>>
+endobj
+3 0 obj
+<<
+/Type /EmbeddedFile
+/Params <<
+/CheckSum (a08ebd99dc35ae26e0e9abd38b618e3a)
+/ModDate (D\07220240519044559\05300\04700\047)
+/Size 40503
+>>
+/Subtype /text#2Fxml
+/Length 40503
+>>
+stream
+<?xml version='1.0' encoding='UTF-8'?>
+            
+            <rsm:CrossIndustryInvoice xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:100" xmlns:ram="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:100" xmlns:rsm="urn:un:unece:uncefact:data:standard:CrossIndustryInvoice:100">
+                
+                <rsm:ExchangedDocumentContext>
+                    <ram:GuidelineSpecifiedDocumentContextParameter>
+                        <ram:ID>urn:cen.eu:en16931:2017</ram:ID>
+                    </ram:GuidelineSpecifiedDocumentContextParameter>
+                </rsm:ExchangedDocumentContext>
+
+                
+                <rsm:ExchangedDocument>
+                    <ram:ID>VKG/2022/24048</ram:ID>
+                    <ram:TypeCode>380</ram:TypeCode>
+                    <ram:IssueDateTime>
+                        <udt:DateTimeString format="102">20220728</udt:DateTimeString>
+                    </ram:IssueDateTime>
+                    
+                </rsm:ExchangedDocument>
+
+                <rsm:SupplyChainTradeTransaction>
+                    
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>1</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>20227-1</ram:SellerAssignedID>
+                        <ram:Name>[20227-1] Vienna Philharmonic 1oz Silver Coin 2022 margin scheme</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">25.42</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">25.42</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>2</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>201321-1</ram:SellerAssignedID>
+                        <ram:Name>[201321-1] Kangaroo 1oz Silver Coin 2022 margin scheme</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">25.61</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">25.61</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>3</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>204254-1</ram:SellerAssignedID>
+                        <ram:Name>[204254-1] Maple Leaf 1oz Silver Coin 2022 margin scheme</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">25.61</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">25.61</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>4</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>21612</ram:SellerAssignedID>
+                        <ram:Name>[21612] Krugerrand 1oz Silver Coin 2022 margin scheme</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">25.99</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">25.99</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>5</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>20688</ram:SellerAssignedID>
+                        <ram:Name>[20688] China Panda 30g Silver Coin 2021 margin scheme</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">28.55</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">28.55</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>6</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>23510</ram:SellerAssignedID>
+                        <ram:Name>[23510] Giants of the Ice Age - Saber-Toothed Cat - 1oz Silver Coin 2020 margin scheme</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">29.79</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">29.79</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>7</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>23511</ram:SellerAssignedID>
+                        <ram:Name>[23511] Giants of the Ice Age - Cave Bear - 1oz Silver Coin 2020 margin scheme</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">29.60</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">29.60</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>8</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>21844</ram:SellerAssignedID>
+                        <ram:Name>[21844] American Eagle 1oz Silver Coin 2022 - margin scheme</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">30.54</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">30.54</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>9</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>201296</ram:SellerAssignedID>
+                        <ram:Name>[201296] Lunar II Pig 1oz Silver Coin 2019 (margin scheme)</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">32.63</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">32.63</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>10</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>201298</ram:SellerAssignedID>
+                        <ram:Name>[201298] Birds of Paradise Manucodia Riflebird 1oz Silver Coin 2019 (margin scheme)</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">33.20</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">33.20</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>11</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>201297</ram:SellerAssignedID>
+                        <ram:Name>[201297] Lunar II Pig 1/2 oz Silver Coin 2019 (margin scheme)</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">35.10</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">35.10</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>12</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>209178</ram:SellerAssignedID>
+                        <ram:Name>[209178] Queen's Beasts Yale 2oz Silver Coin 2019 (margin scheme)</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">58.81</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">58.81</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>13</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>209185</ram:SellerAssignedID>
+                        <ram:Name>[209185] Queen's Beasts White Lion of Mortimer 2oz Silver Coin 2020 margin scheme</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">60.71</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">60.71</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>14</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>2012125</ram:SellerAssignedID>
+                        <ram:Name>[2012125] Lunar III Tiger 2oz Silver Coin 2022</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">69.43</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">69.43</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>15</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>209203</ram:SellerAssignedID>
+                        <ram:Name>[209203] Myths and Legends Robin Hood 1oz Silver Coin 2021 margin scheme</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">31.49</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">31.49</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>16</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        <ram:SellerAssignedID>201294</ram:SellerAssignedID>
+                        <ram:Name>[201294] Lunar II Pig 5oz Silver Coin 2019 (margin scheme)</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">218.17</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">218.17</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+                        
+            
+            
+                <ram:IncludedSupplyChainTradeLineItem>
+                    
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>17</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+
+                    
+                    <ram:SpecifiedTradeProduct>
+                        
+                        
+                        <ram:Name>Insured and Discreet Shipping</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+
+                    
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="EUR">29.00</ram:ChargeAmount>
+
+                            
+                            
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+
+                    
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+
+                    <ram:SpecifiedLineTradeSettlement>
+                        
+                            
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>0.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        
+                        
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">29.00</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+
+                </ram:IncludedSupplyChainTradeLineItem>
+            
+        
+                    
+
+                    
+                    <ram:ApplicableHeaderTradeAgreement>
+                        
+                        <ram:SellerTradeParty>
+                            
+                            
+            
+                
+                <ram:Name>CelticGold AG</ram:Name>
+                <ram:DefinedTradeContact>
+                    <ram:PersonName>CelticGold AG</ram:PersonName>
+                    <ram:TelephoneUniversalCommunication>
+                        <ram:CompleteNumber>+496151 73475-171</ram:CompleteNumber>
+                    </ram:TelephoneUniversalCommunication>
+                    <ram:EmailURIUniversalCommunication>
+                        <ram:URIID schemeID="SMTP">info@celticgold.eu</ram:URIID>
+                    </ram:EmailURIUniversalCommunication>
+                </ram:DefinedTradeContact>
+
+                
+                <ram:PostalTradeAddress>
+                    <ram:PostcodeCode>64289</ram:PostcodeCode>
+                    <ram:LineOne>Bad Nauheimer Str. 4</ram:LineOne>
+                    
+                    <ram:CityName>Darmstadt</ram:CityName>
+                    <ram:CountryID>DE</ram:CountryID>
+                </ram:PostalTradeAddress>
+            
+        
+
+                            
+                            <ram:SpecifiedTaxRegistration>
+                                <ram:ID schemeID="VA">DE219068502</ram:ID>
+                            </ram:SpecifiedTaxRegistration>
+                        </ram:SellerTradeParty>
+
+                        
+                        <ram:BuyerTradeParty>
+                            
+                            
+            
+                
+                <ram:Name>Angelin Ivanov</ram:Name>
+                <ram:DefinedTradeContact>
+                    <ram:PersonName>Angelin Ivanov</ram:PersonName>
+                    <ram:TelephoneUniversalCommunication>
+                        <ram:CompleteNumber>+359877581555</ram:CompleteNumber>
+                    </ram:TelephoneUniversalCommunication>
+                    <ram:EmailURIUniversalCommunication>
+                        <ram:URIID schemeID="SMTP">rilabg@hotmail.com</ram:URIID>
+                    </ram:EmailURIUniversalCommunication>
+                </ram:DefinedTradeContact>
+
+                
+                <ram:PostalTradeAddress>
+                    <ram:PostcodeCode>1504</ram:PostcodeCode>
+                    <ram:LineOne>bul. Yanko Sakazov 13-v</ram:LineOne>
+                    
+                    <ram:CityName>Sofia</ram:CityName>
+                    <ram:CountryID>BG</ram:CountryID>
+                </ram:PostalTradeAddress>
+            
+        
+
+                            
+                            
+                        </ram:BuyerTradeParty>
+
+                        
+                        <ram:BuyerOrderReferencedDocument>
+                            <ram:IssuerAssignedID>VKG/2022/24048: SO41097</ram:IssuerAssignedID>
+                        </ram:BuyerOrderReferencedDocument>
+                    </ram:ApplicableHeaderTradeAgreement>
+
+                    
+                    <ram:ApplicableHeaderTradeDelivery>
+                        <ram:ShipToTradeParty>
+                            
+            
+                
+                <ram:Name>Angelin Ivanov</ram:Name>
+                <ram:DefinedTradeContact>
+                    <ram:PersonName>Angelin Ivanov</ram:PersonName>
+                    <ram:TelephoneUniversalCommunication>
+                        <ram:CompleteNumber>+359877581555</ram:CompleteNumber>
+                    </ram:TelephoneUniversalCommunication>
+                    <ram:EmailURIUniversalCommunication>
+                        <ram:URIID schemeID="SMTP">rilabg@hotmail.com</ram:URIID>
+                    </ram:EmailURIUniversalCommunication>
+                </ram:DefinedTradeContact>
+
+                
+                <ram:PostalTradeAddress>
+                    <ram:PostcodeCode>1504</ram:PostcodeCode>
+                    <ram:LineOne>bul. Yanko Sakazov 13-v</ram:LineOne>
+                    
+                    <ram:CityName>Sofia</ram:CityName>
+                    <ram:CountryID>BG</ram:CountryID>
+                </ram:PostalTradeAddress>
+            
+        
+                        </ram:ShipToTradeParty>
+                    </ram:ApplicableHeaderTradeDelivery>
+
+                    
+                    <ram:ApplicableHeaderTradeSettlement>
+
+                        
+                        
+
+                        
+                        
+
+                        
+                        <ram:SpecifiedTradePaymentTerms>
+                            <ram:Description>Sofortige Zahlung</ram:Description>
+                            <ram:DueDateDateTime>
+                                <udt:DateTimeString>20220728</udt:DateTimeString>
+                            </ram:DueDateDateTime>
+                        </ram:SpecifiedTradePaymentTerms>
+
+                        
+                        <ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+                            <ram:LineTotalAmount currencyID="EUR">789.65</ram:LineTotalAmount>
+                            <ram:TaxBasisTotalAmount currencyID="EUR">789.65</ram:TaxBasisTotalAmount>
+                            <ram:TaxTotalAmount currencyID="EUR">0.00</ram:TaxTotalAmount>
+                            <ram:GrandTotalAmount currencyID="EUR">789.65</ram:GrandTotalAmount>
+                            <ram:TotalPrepaidAmount currencyID="EUR">0.00</ram:TotalPrepaidAmount>
+                            <ram:DuePayableAmount currencyID="EUR">789.65</ram:DuePayableAmount>
+                        </ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+                    </ram:ApplicableHeaderTradeSettlement>
+                </rsm:SupplyChainTradeTransaction>
+            </rsm:CrossIndustryInvoice>
+        
+endstream
+endobj
+4 0 obj
+<<
+/AFRelationship /Data
+/Type /Filespec
+/F (factur\055x\056xml)
+/EF <<
+/F 3 0 R
+/UF 3 0 R
+>>
+/UF (factur\055x\056xml)
+>>
+endobj
+5 0 obj
+[ 4 0 R ]
+endobj
+6 0 obj
+<<
+/Type /Catalog
+/Pages 7 0 R
+/Names <<
+/EmbeddedFiles <<
+/Names [ (factur\055x\056xml) 4 0 R ]
+>>
+>>
+/AF 5 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Pages
+/Kids [ 8 0 R 26 0 R ]
+/Count 2
+/ProcSet [ /PDF /Text /ImageB /ImageC ]
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Contents 9 0 R
+/Resources 10 0 R
+/Annots 25 0 R
+/MediaBox [ 0 0 595 842 ]
+>>
+endobj
+9 0 obj
+<<
+/Filter /FlateDecode
+/Length 5689
+>>
+stream
+xœí]]İ¶}ß_¡ç¾?EE{×[´ŒÈCÑ‡ÂIuÚ´ú÷«RWy(]®ÄåÕ2F›ìÒÒÃá™9œ!õş÷ßıµúÛª÷ßı«újşıøİC}Qµù§êş¼›ş‚ÖUCÕ…éîŸêë·‡_«_>?|nÿßş»{æÛƒÔìÒÿ%ÚşøéŠĞ—Š6´ı}½ü±ûË??|ÿ›ê—ö…¶k¤ÿóŸ¯¿<¼:İ¶õ½â’0Aún.nûÖıKÉ¦"5Õ¿|ø©í¡}å06óÊÿşõ¿?ÊÍ¯mˆª¸àa¬lç‹º^L÷~±ĞÇ¼XrĞ‹%;æÅMkÇ¼X4yŠ4yª9hò4…“w¡JÒ†‹Z·ÿÍk¨àº{ã„4’7õíK½QŞ®ERµë2‘¼~¥&_¿€Êë×uJy’%•×£@Jy2­½ô˜‘R^“Ö^z„I‰/møÃÚgIJí İĞåyLñ×¨šDM>Âî¡×HX"&¢PôuÊT*M>BÉ¯+°‰Tš|„=C|Œ'Òiò!ªö?Ó;¨”œ"¹À½O-°ÓSì±íÔ‡í¶3ì¡-5Ò$İ¾H.°{èÜ;¤9·ÀiÎ-pÜğ?­ÀÚÒ#MÊÒä{¤9µÀiN-°GšSS§ØC[j¤Iš”I.°{èÜ;¤9·ÀiÎ-p,z8­ÀÚÒ#MÊüor=ÒœZ`4§Ø#Í©eW§ØC[j¤IZj’\`÷Ğ¹vHsnÒœ[àXøyZ´¥Gš”UmÉöHsj=ÒœZ`4§8–ŸV`m©‘&imrİCçØ!Í¹vHsnãá—Ó
+ì -=Ò¤¬ÕO.°GšSì‘æÔ{¤9µÀñøİiöĞ–i’J.°{èÜ;¤9·ÀiÎ-p< |Z´%?€(X 1´uU“Hàx8€°Dm±¾L%ĞÖÎ7"‘À±”ñD‹;İÉN?o{vìXÿg*zøÍwjÿëí{ÿØşïïÕŸÿÒşò‡öİøÁ_Ş?7UkË_~ªAï†}ùö@Ûx« /?T¿­ëšü®úò÷R_$¯%ı_Zhß¢/Š´¿nÓ1-¬oQİ?1má}¿45ëŸº¶+§Õ™É‘æm¢Q‹gš¾åÓ—V•ÇèB‘™.T/^”Øµ'ºo—FKÕÌZÔ}d¾>j6ëã£-3)Î|µz¼Ş~dZ>Zİ3½˜ãG3Çî|=™3]“–OFûÌ`Í¥]ÍÜ.¡-ÓB—Ïzè5½Ôƒa,-æ@»à-8¼ã”Ú®3d3â-KP«tÇ˜>Ù–	ºA/É‘Ít`« ]3­§†M4RlŠĞx‡Ô‚Wí |†ğÃg¬ubSSÆà¸ƒ½G1*j"äÂè|i§CQïêóÈ!^q‘Hµnàb 
+õÍLÇJ¤™î+Â¿ r¶LŒÙEh6ïŠ4FÊûßo2l3ËÚ®9Gûx©}]Ï@êƒídãwy¾NF,ƒòL2’úÊúåaÆK"îº%Ÿ»îÚ®—a¹lA«(w¿çŒ–&I¡f˜d¨ë†±ƒÆ.õpM¶Œof"m,…ôY«E0Â˜©VÀÙBˆô÷à	Æ¤x<¸åãáÕ\L¾Q3Úl B^´êÀhÕÌ˜òÄ±8&ÅÔ?ƒİ„PÇî‡lùûëÊ¿Qh?5*´¡ÑFÉ³ÑóW| YOf¦Ìcãn~·pØ"Œ§EÂg8µğ¡µÇ¨fhKk.FÌ¤åÑô9Ïà–'ó6±t»^2vKÄi¡8ãø}#Åoƒ½×»XO/T/‹ĞÏ`UÍEBcÂ]2¼²4ƒ[\eÚaÓbâ±æ"›e iâi	ôZÙÅAÏ¹eÂğ²ÁS‰çç |_à¬›ÕÅµô´µ0v/ßJ—¹‹c6b¬”9Oí°—xu¼2çÎ
+F§c1w9ağ|4FE€ÂŞ.èÍÉN]²©£yº]]äÓ}bÙÀÀ¯JQyF-´6Cw£,?ÔnG8`Àıáh.kLitSìÎÉR21S
+¶”¬‡Ñ…‚ÚP`g†Q#=–ƒñ<ƒ£c6ŒÖ‹t9fV0´	J1a&8€.d¥•pÖA.¤!g\mC“BVÖÈÊÄûäOV®-deY™Ìí®A#Å»¹YÛPOV&J)då²RìÎCV&J¹g²ÒX§º/YYå¡·™~[*²bj{™MÌnĞ¨í]¦¯‰Œ¸o6PwKQğÛp¯•Ñ¨)V+§œBpR`±¬I!8ëçê±²‚3v¶œ-ç:·%Ğ	ÎU)…àDpŠİyÎU)wLpºzôˆ³«S{[à´kş¯Rªa8Cªˆ`8€¹j+÷İÓ…’JR(Éqè)X¡$«”dâc²vë=%¹v¶P’”d2·û††Pù4kƒï)ÉD)…’CIŠİy(ÉD)÷LI”uªûæ\0%¡··ÄPVÆoIvôf_JÑ·€'^ó¾€³•¼É
+”
+Yy®6õxô¡LV®ŞçÈÊØÙ(ˆÄd/Û»&+×¹…èƒ=~àT4Ÿ²VJOV®J)då ²RìÎCV®J¹c²Ò°—Ü:€QOmÌFRTşÄÜB¶?1a Âs‰O uc
+¶pßbâ¡€œg3/npêb¯Ç°“Î
+Äÿ¸Ê0†kAcbÖÙ¸¬2†QÁ^c§sği_cŠIööp#îõšä×bqü£$@ßÆ~&ÿ=…rSÅNÜ~¬åÏí¯M–ˆÄoËŸÛOæs,ncuá¬AÖßsû‰R
+·?†Û»›+¥çö¥Ü3·W/¹©bgn¿ïq­Âí·ß&'ŠÛGğÍfƒ{Àì¨»œù‹aP1z{sœ4cğWµ^µæÂ…ãVMáÂpauG¡\;[¸ğ.¬Ö/¤ˆá$C=,k¥ô\X•‹PæÂÅî*—«3\„¢Ø‹.BÁçqÙ¼Ô$pİILQ.&Rkşı¶dË÷ºGPî ²Ó‚¾ğç‹İ`„¶ïİ,oñ¼í,\Ä1Ä¨ı‡\ØJÎ€.Ëm*ë,iâöògI×Î–£‹XÒ&uEO¯ŞÓ–«R:–41øÂ’aIÅî<,ibw÷Ì’ô‹nS‰¸Û>†hètL.^¯ˆoS‰9º@ãn‰:"‰IDÄ1ÄBŠNHŠğv˜Ò3´NõYGiMr¹µÅóã9«o Eúîs¹v¶¢-¤h‹ºpÍSÄ>É:bH‘.÷¹MŠŠİyH‘>Ã}.šsŸËÎ¤h×›^õg8´Æ×RÂ3_¯_NsoLÌõ—soX£X;1ß8”Èâ«F—¡g`Â"”sf’%_N?”ƒ)&…8ú¹ë‚:„•çÎr<eTvÊnÀQ»wU¶yŸ¬|fåÏÊ¯-¬|+ß¢®@V×våª”•O¾°òcXy±»¹RzV>±»M¬|ìIÿg*køÍúœûN6UÀy:Iú>Î5İ’–Z/LöÑ.¢][L´/œ` {„\Ø78Ím1í¶g¦Çƒ^¨$ÿL’šOµ„£;mXŒá|LìÓGåí#‘Ó>rÓ‡ƒ]An™û3f¨=tšÁg¸‰&•³Ù`ÜS‡ÏW3µj*—§]û˜/çå5Ñ …¢Ó1j‹bÖVØEÖ‹ujÎsC˜e“Üa“Ô®zcFKì÷µàg`KL®ø¶½oøúè±šİ  CŞb>b}Ö­»rÕr‘7âÀŒ-»dù½ÎgÔ2FY·<CLşLZ¤%†Ë-%S„¢<-
+Å_B;îµÙ8:x„”Ó‰{mÇÄ¼}lÔ´ÖaÔ[x6ºw¶ÙŒcò”«°ñ=ÃM8éÚÒ“y›S#nÌ[z6µ¬fİ½áG³XÜ‚&eŞæZŒÚéÛá®Q
+2™©k¼GW…Æ(ÜU‘)IB¹Ğ{SÆÉ¸.ßxK&:o;âtÇ«¸»óa³¥fU_¨ãA 7ÀŞÍÌS‹orá<éßàu>Y¬Z²ÕOÙù¼h„Ov\~ÀÉ‘#ÑÀ–¡[Ğw³.Ø­B—¿z‡¯NØtgôClÈÔóôßD±Y'­ËmœM2èŒ±û¤6€4ñãËœ±Éûµ=pvÆ0Pk•¾ÆƒÃŞÆcK \«­ÑÛè#l‰™F^TËNŸ2Vauí€LƒVÏ¡ D+©Èù+„+©Èø@’	½,{à„˜ƒ£!¼p<oÕgæøE·ã7é¤-ƒ1»B[œ+ÃÌıƒ’èø;Qc×fÊQZÃ«—›t°æş	öïQÀ ãœ¾®5ûñuRÏ–h F3¢Ù™¿%ŸŒ¿3°ëÂqAM â3ó»û`Ò¬Û	P‹²´ˆĞ,ÊÃlZÒM€1«{
+vùZËÁ+ MÑîà¥µ?WDºÇrˆİµ”Ë}<üLŒœ@ò9‹{G|f2/õÜ¯9@é`—R˜ğã¸&ü×öJ7ñoüšvw­lHç	áÛŒº˜›1°©¹ú"8cßÂSÊÑ7üŒ±om+)&-“å2šÅÙY>í½÷h4ïjeM<Ë4ÛÎÎ0×V3S¿L¬Oq	Ğ-_ğÇq™e¥­¡}J×
+8ó8Ã3
+.İÆ‚aKŞÖÎîÌ@îÙyû÷êğlÉö1vr˜Jã{·?
+u} vÃÑ9©B³¨£n"Nc¼†…-j“q:ÌÁ‡1”rv"](¨S0ìÆ™gÇ01Ç°qsÃŒÂqÍ7áÎr‡9=j{ídIº÷qeõx­§‹K6kYˆLG.æ#?ÈÆ3³ˆ>ß_K4¼şÈÁ™2zŞt›Ôí±
+lHG|¢(pj|×Ó§ï6á3Í1›òøÔx“ƒa‘¹YÜsè«+Á?	5Sßéà]y” èöeFg†’¹³`l›Uãk<÷¡àK&ğSÜm,ÒÉÇí›õ\?s!'ì[ ïŒ¯x€—…®:%Ÿó‹¹2oGÃûşïÀ-‡éˆ=)îAãSG1û&YÜ] ©™êä|¾N²Ùøl^Á=7„’aõËâ^74³]âúãfçœôF+ÄèucÚÚ\™Îl‡cìºùÁxKTçË{á˜c,Zu)>İ_Ï¤ÄWØf:z>§]R7Ó‰mAc¶Œ[¹İ#ªAóæ¨Dè™Š³†wÒyáM£QüAv|kTßÔ¢8Gsƒşp]CÖq8W³‘Ÿşd=_*Áƒf1ÕøxO&ï–Ô3CÉãİfÕ¸¦=joÓÇÜí{Ï±dK OŸDªÛƒZ\x8ûuUuWs<ÑÚép¸»Å±
+ÏêÀÎ4<¼‹ŸÁ‘kÌi%Œ÷™Ç§]ÁÌUù™c7çÛV³§ñn¹bF®Q7İãƒáÏ(à`9‘øjK®¶Úy%—#wN7›Kœ…g-š“JÌ)wìãMè”¢®)I^xsãdÖOçıU³öÜµ‡ku¢îïÈ{Ö{n6*%s·$ù6ú¢=®ÕÁ‰L˜Æ4„GÙœ¾Á‹á›ù–Êº÷›FÜ£õÕüq×í!Yóî¡lıMVvr¥Ï]Ú)æo©¶S0q?µ‚m4ÄRÛDøÓÕvà\Š;£Q ŞXw·ï­ş-å·[Šd÷SŞ)ú3¥¼sÂ—òÎ3–w±Ôw.8w'×Í[­ğ”ÜO‰§ ±Ôx`VŠ<{¿E‚êsWy
+NJ•çÁ6¤ÙıTy
+İ”*O?¿Ñ2Ïq÷
+€¼»A®zî sœŞO¡gM•BÏ×…ÓRéyó¦w}îROÑW_—ZÏ×±®†ßO­§XT—ZÏ7Uë98RìùÆ’¾¢>w±gë±J±§»!Áï§ØShUŠ=O_ìÙş©~mM¨î§XØçö/vAz¡¼m®j^}ıvÓ‡Ğêé;;Áó·u7µN¬û‡Îş1mĞT_Xµ²î÷õòÇùc??|ÿ›ê—n|Õ)’01dşó^Cº.EÒÿ™>zcº¿ d‹$„Tÿşñá§Ù' ôdiëş?ˆ–U¡ÃO/‘ÜÂ!­pÖ
+·¢|O
+¿ªûˆV-5­)Ôè]'jĞø»¦E´ªı¿¯ßª÷ø¦«êéŸ½õÆÎìH™<Ó¦û‡Eg¢¬¥‹oÅPbœ`ÖÌ7C	Ù‚H¸+èÇT Ò,¨@pJ™­°ùÔXŒ¶Ø£™'§š> îb·Š1`TØ­®}jÌD¤ø.Ê‰©AË#i´L¹¿qêë¦ªâm€À÷g°5[Ô¹l,3	í/ğy<ë–æoŠBÄY¥Q¡4®ÆÌEş‹Yº#‘£gÂB,vDŒ=T˜ØÏ:ŸQ•9ß=ú`,ÔyÆX÷Ğ2Üƒ19±Ì úñ¶Àx¸µ%gÇÊn`»µæx¤ø;ìòögL`¦<ˆÏPßÈøA;¹Üø‡-Qóƒõu]Û/ù¸ş°†Ï`ÌâYI· Ú\ãË'_*ÿçb}sŒm	ÛlŒîaŒ§l<©ĞˆÍk£ç´!¶LfË¸İ³(ÖÛ¹¯”¨%ğLA[#BŒr¦Î£ñ|‚s¤¬FÅËUÄ,—İ„³6 @uÓ
+7[ÏÜÃ£ ešÄƒç¸×cúÅG•Æ	\ñŞ!g+ãKleØÏæ{‹”‹±‹;Ç¨ˆ'bb*ˆÚÅš_í×ã‰»‰ân{<£–±<ÏÍt¬S®Jé.@¹*Û7ö$õØ²‹ßeğ[QËøIÙäÔüÌşé—›r>ídìëéŞ2Ëñt¿˜åvˆ’¢¬šÖVºdÎâÇá¯oÌé¼´Ë/ÉåÙ]C—ÃQn
+ÇéÍÆWQ©f_¹Yjâîs„wGìlÅTÌFyÌñİaè®oÙX¶…>.^GlTFù…[˜¸%°‰_¶d³XŒq£€ÉÉ& ]V“¾âûVğBÇ?œİŠYÎØ”™Ío¸ ´kÑ$>v„ó(1oÛ÷HTªœ™
+ä’"²Ydqƒ¬éRôŞÀA(¹É×®i‚µ1`¶}€!`<íypE@·&Õ’èÃåŒåà¾‘¬œj]½ãÚWÍÃå¨Ç`˜ğ™@A0†+|
+ §åc\¼%05½ejKœ‹0G“Ê0û×¾FÜ…‡/¯À\¸ĞÖ){µŠ4\&¼oeZ ş=K{`„Ş¨q4b•ÛÆ”zføcÎªiŸpU`3Tñ-§Ì3ÌOĞp
+y­(äõàŸgá™çÕ 2ÛÁxÖsæX6'[gşa6Ú3Ì`Bàåİî_˜&ªÏÿOx
+endstream
+endobj
+10 0 obj
+<<
+/ColorSpace <<
+/PCSp 11 0 R
+/CSp /DeviceRGB
+/CSpg /DeviceGray
+>>
+/ExtGState <<
+/GSa 12 0 R
+/GState6 13 0 R
+>>
+/Pattern <<
+>>
+/Font <<
+/F7 14 0 R
+/F8 19 0 R
+>>
+/XObject <<
+/Im9 24 0 R
+>>
+>>
+endobj
+11 0 obj
+[ /Pattern /DeviceRGB ]
+endobj
+12 0 obj
+<<
+/Type /ExtGState
+/SA true
+/SM 0.02
+/ca 1
+/CA 1
+/AIS false
+/SMask /None
+>>
+endobj
+13 0 obj
+<<
+/ca 0.09804
+/CA 1
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /Lato-Bold
+/Encoding /Identity-H
+/DescendantFonts [ 15 0 R ]
+/ToUnicode 18 0 R
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/Subtype /CIDFontType2
+/BaseFont /Lato-Bold
+/CIDSystemInfo <<
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+>>
+/FontDescriptor 16 0 R
+/CIDToGIDMap /Identity
+/W [ 0 [ 543 704 650 590 311 692 568 512 191 384 620 793 741 722 665 750 922 532 722 793 649 557 717 1038 750 796 704 646 530 473 564 564 564 513 529 564 269 263 433 565 519 384 835 612 269 565 405 465 561 347 529 356 784 575 575 575 575 547 501 575 419 519 223 564 575 575 575 ] ]
+>>
+endobj
+16 0 obj
+<<
+/Type /FontDescriptor
+/FontName /QCBAAA+Lato-Bold
+/Flags 4
+/FontBBox [ -88.37891 -180.66406 1143.0664 937.01172 ]
+/ItalicAngle 0
+/Ascent 937.01172
+/Descent -200.19531
+/CapHeight 937.01172
+/StemV 79.58984
+/FontFile2 17 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length1 12388
+/Filter /FlateDecode
+/Length 7710
+>>
+stream
+xœ­z	”[Õ™æ½Oû®'éIO»ö}ßj‘T‹T›—*»ÊåµìÚí¯xg	 †Â’Nœ…d ¤î¤{&’î0=ætL˜ér ît22ÓM€2ì’jş«¥\.›¥ÓÑ«Wzï®ÿı×ï¿W#„ÄèÓˆ‡Ğğh,ùsá·~%gáÜ»ÿôüı(Ïo"|sßÜÔìŞ±¡/!zÊ²û @õŠèo
+«áİ½ïÀ±S©¼aŞ¡–ï?4358>z¡HÔß}`êÔa4ˆşŞÉƒSæò?¹Şƒu#âñ;¨ B‚¯
+R0‚½ñÍûŸè1
+‰y”JLQŸGñFè/GĞä:Ôü;=²9â%<RƒùD·â¯:™	!¾YpÌ†(ÄG!xÏÀ;Ö\B{JÑíáàŸ6›Ë¦’=¹¡èò%rù¼¹lëÊ¤}^W³Ê%ôù´éf¾ÑÕĞªsú¼ä
+ñ¥Km¼O-İ~¦}İàü@[>àg¬P2£YÏj´|ı·4B¹œaLFVO«YSÌËšh­B©r«{¿(“ê4&£Íb2è´2)ÆR™VÇšÌ6£I£“Êç/æú_àoˆØíZçŠ'Úóş€Í¡3ht´™>æ±šŒNÃ0f£ÛmĞc‘X"I°ãĞÒ·,&võ ”†AaJÚdq áò²àÏW*d>a××Äãx°<æxd}õµR}ØHõ½âÑ¤‡ª³F'¦ñ«ß•«Ô
+•B© tj4&¯ı”Õê0Ã¿å"¡L&syy»`Åëòh
+Á k
+@ohÌŒÉ„.šN%›¢€w—ë!üÃ/Ø_©pv¬7øƒ…â†´ı½ÛhR×~D3zÿ‰¿ØĞÑæuë4xpè+%8oçrù#ëzÊàkËU¡R˜ñÏÍr)®>Ëë´.g,Úv¸Ø‰0FğŸ ÚDi3CÅÈ Ö[{“ÿO¯¿~ÉÈÿ'PSôü{©®Uu}z3dÉ¤†¬ínÁ‹Èİ¨©“‰¦¥pcik÷ÖvûLFşŠÑjÿ¶¦dËYM&Šz?i`Õµ	Æhn¼X='“²v(Õ¯ZµZ¹BopU•
+3åª/ä8™ıPßtÉê³êë÷9Ş7ª‡)Aõõ€àü…Úü+µ]­y¡µ A+´ÃZj“àü%ãë/¿µü/.x´‰È
+rU×Pãj§#v}õ/¥
+•F§e´S‚‹!Ğ¶‹2£š–Ë…Â†”ù£ë¯>¾şJSsÁê/Û˜¯)Ü×ÿäàşŠ‹ÃN÷Ààuûxùåõù‘¦Fçöæòë_œ‡ªBiëÖ½û·oïêv¹«¿£~…uZ·3èjOÄ\N†hYeù¡Sğ²ƒİ£–Õ®¼îJ«õèå-UËy›9í*ÙìÌôÙÅÇÿììâôT>›ÍOM/ı³ÇÏNÏd³ØÈ9Š…­[÷Øº¥Øé°clwt·l=ppËÖBÑÁQo<rvq~¶½­½}vnñì#-.ÎÏµåómsó‹‹İ49İSv¹İ®rÏôäM§§'Ë½·ÛÓ[œ†Uœ›üpQƒ<«m¥E¿ÏÃ%×ğ;Ge_\œ™Êe³¹©™ÅÅÇk¿Âã@BØşÚ¯çsùÉé»ïyô±3÷LMgóøBƒ€ë¸İD›>³ü¶`æ†™µ kYDŠšTsß¡M8T*w•ÂD!°.Ştøè}÷¾ax$¦6óN./W	“ÙlLÆ+åqŞK÷ÜqøÈÈh8†q,<:rä0™½´ü òë½,½Yıê	[âaÖÒÖpĞ†U.åss³gŸ|ì–·ïƒ?fY“ÇÛŞ±mßÖíÅ.§Ûí,vŒnÚ“‹E|ç’Ê¥J=}`çíw~ï›·ß1±;‘¤~ıÍ{ïÍçp:³õÓr‰Gt:ÛÛSš:õ)cÛ%(z]"äc¬>~¤£#Ÿ›Ÿ½w±n Ë“ÀO+‘dKØ›ñfèí"kÂD¶ô¹h¥L&–Id<‰€zï~a˜¥‹<
+ƒîóøB‘T±Ä¹]Nï‹9,“šy?wÚæ¥£›^€9ÒWÎAşe›®¨n0M¸JlÚ·zê—5J…L*•Hğ_«Õ*¥‚ViğÓ"©D&U*4?}ÂüZ—Š59¼kRÖÚùu¢(@"Q-w:]nP^/£’H@ğÅïf‡[ú¾UMcL«­¼!—İaY*­å·ù
+ğB¹ñ6¥˜i`ëÊ´XßTWK„WªÀÊÕÒÍ–…Hi•Îh·}ùì†İ]ØbÇÅRwg1°Ø8{©°sÇ±Û.ËTj-¸]§++µ…Â›Be³$âÅÎî®b!·Z°ÓÕİ»{ò¦ŞJ©”Íç…L‚½Ñ¤cò¹}|L¬ü¢Õ‹VÊó›6lèl÷¸±?4x+–` C£V&`Mœ+vºX“VÇ06[(ÒÕ½svx5+&Öëİ°C‘
+ì°ÍR[Äk<ŞZœ’á>Æ%~¼1cDà
+Ø‘ÅlÔiåYÈµ:£Ùb ÈÿLp†µä¡¥’iî°² f$²Oè
+ø/² –*™D"SAtgY†Q«Å‰X­fÀ†?¼®j¿¢¡kÄ€àÃu]ò­V–_8ÀZ½Ç—Ë÷áSo$½Çk™L¾ãŒsÛw÷ô$k{A<o+Ebü	â^ş pG/Ø=
+“ºÊä}€†ˆŞs3Z5V±´Z­ è‰•RVïz¿úëÚ›`Ãj¹¦	ûoÀÆoéíÒ‰êsTi5®¬ÆT¬şŒ`ŠÁÕÇHË"èêp¼üö®8bb²-ƒ½ÌEÃj.ÓDï2^i·%œÏÌÍÜÿÙï<u×»FŒË9İş`*Ó{pÛöBÉéÂnww×öm×íê¯¿oV©ğ›ùB±\ÙñÈİ÷LÏåòÔß<{ïÜ8n°‰-·x1­ÕiU`±o÷‰OÏÎT*n7ø&,V©WŸØlZĞP\÷Âªä2Âú“°ªºúh¯än“á¤@Û`··Ğ2vÉãfYñ’D,‹À§c—Èdpmr³z)æô4J–„&Öõj-ıAíY¡H,
+Å‚Ú÷?œ×j¸¥Ï9=ŞPÈçåxÇ¿ƒ˜,K‹=Ã>/xÙF<ìûZƒŞd24Kò†¬êQFÖDuÍëf¨§±¾öÏÕ!Áùêg¨[.æ¨3ÕÓĞdö–0*xRm@Ñ}«"®şJçĞò.ÚË˜ÖåÒ~ˆµøZ®Èh+¾(µf„˜iP4c‘Rah°«‹šŒk4^èê]W(FbFÓşz™NÃ=sé)â}=NIk6Ûìf³N« NI¡Õ™Ív‡Ñ¬§DİjbÉXëÖUŠÄXÓ¯w6:åò+ºò§·ô÷Åã&#ÆFS<Ş×¿eKo97š06ã±rï¥÷ªTÊ/NĞ¤q’“D&“˜Ø€¿PMÆ†4š‚áÂÒÅñ¾r²5X²Ü7>Ö[‰&Œ&“1­ôu 7ÉÎ w ³š[½ÍÁ ±4>ˆî‰:¾\eñMÉ¸øÿùŸO¨iµÒàÂ»$¬ŞıÕ'?¨›ºeét8m?±ƒw”
+R^İÆ	ãY +ë¸Öñµ­âášÈ=××HÓ)Ú9\ûÜ¾½=İ›JmçÉ
+c í•ÊìÜ§ko`v}&é°+XEÛ¹Tf öÏÿpïĞ îê½÷_ç-Ödj`pg&÷ÛW»¸{d¤­ã^¸å°ı±¸Ïg¶@ïÚzêx*uèh"¾kù_ùˆBm#¯Ä‹«s’„ä’«*×FE×‚ÑPØírvwíÙ}|fl¬³ÃåÄ˜'Kêê	é†õ·"Î9¼J.•ÓÙ\{{Gîàî=•~o Sø‚Bi¶‚m‡%Ê½ÏD_À®¿PØ¶ıˆM«ı<¶~V)´´Jf$ˆs.#»İ}×-ü6q0÷BİÿÂêxOÃêz×XæjÒ}×òªÄ´v•İ×İ5¹ûæÛ·õ÷Ê¤2FGëX³Ó.'’œKEcÚåŒÇŠ^Ù30Øè`"™ÊæÚrÓ[¶vu»½”úèÌÌÀ ¬	{¼}*‘X.U+0ËF"]]#c=İ‘ˆŞ Ri4JÖïJr€aaq®ş¾¹²¢3õ}šw‘¹Sé²# Ó®£ÏTÁèg·”{"  UŠnëiëH
+Ş­>Óîvc‹-ÚZ¡¾>™IÃkª*^øÅ5Q°!»Â‹kÌñ`B¥±»_$’¹j*¾9:Ê™à—kO‡ÑËïğ|3™MkÑµ"ZÓûÖğş†j$´£§­-U}0©¤0ûáXj¼§'¾•úZuv*±YÒÔï/ıÇÆ8³™Ä"«%›^7@Ğ Wû,_Î qtİ!İp¸-€LsŞUËåêö+Z‰ª-ù0¸œkÖçÖzä¦WfZN?·ÊÀÎE"#~=+iÔf£k$@ÎaÏç6®ßÑÛÙÄQ¹Ü¶[
+É‘İ‘Í­ÛÖÑ–ÄVK"Zìè.;ãQ;`kwW÷î=§NmÛŞÖa¶^P*ì¶x¬¿/âŒèl`8O¥£a£©S.7è=ÎXÔídõàë£±‰İp%“vÆíncYÖÈ2z:8Ğ79Ü]ŠFX+TÆI£BÅ§­V›sC¡
+X,³ºÍr%%à	…ÒbM$7V „¥ílĞû¼©ä6+kTk v¢ÕšL»N+ƒ‡Ïƒ.F;à‰½‡U(1À6ƒÁáğÇ¢ÑÑE%èb´CvhAåß›uñÕ
+¹D"—k~*ĞüwµÉÿË7+TÚêO’Ñxş’TPË¥_\[o·ôÛb«W|šRß!H¨èõ”{§÷œ<1¹»Òãõx }œ<~rÏtoÒ!î.Şu{W©Ôuû]ÅnJuóÜLÅë!v^éŸ™»ù–Ù¹¾~×ëK½éÉmÛñömşämxÇBÙ	Xò_ŞÊ\—àÚcE€‰œÄJ™±YœN›ÅÀ(d§Ôjãœc)K‚¤BG*t‹ÍÉY¬ŒANø,70VËÅÿÍ77xrlù]ü$Åú~Oîc’úcêÉ¥z³Û,ŒV)—+µŒÅf'së¥òª»÷ªRm£$ƒÔ¥¨M	-¿Íë ©¶òáq×´Ab£kCAËx‰„W8sÙøûÔíCÆ¤µš½îˆÃ®×É¤zƒË‰Å“Ñ˜ÛŞÈdL&ÖNØ¾­³M‘OÃLV§;¾.ÆØÀx]±h<Æç2èÍÖtfãÈl6‰Æı£Sj™D¡TÑ (™T£fõ&«×ÒJH;ôz—Œ÷•:Ú""¸ ? ËdÀ)ÉR.=KkJ5­c8ğ'¥]İ±˜ÉÆ§Ñ°†¦şÿŠœ©\‘×§ë¼Êé^‘ÏÑ«R¢Ã^hÛ¼o[©$YÇ¹=şP4HeÌV,T)¬æ€/¹1ŸM†éö¶hÜîTÓ”øøÜÜĞ`0h±Æ¨ĞEUdÖògä2—«Ò;7sÛD©ÛĞh8®¿–2èõúP¸·L´tóò;¼ÿÊ¢v4¼*CÊ¬ÚÈ¨ÓìËzZy;İ(X³"âŸW\o¦Y9Š¶¡O=…C‘-EĞf3šìää úÆ;‡’	³ñh©!àñù°Îr.ïèï(ğqv»Åb²ŠÄhV··µÅ¢v« ´Na²Ñ«T)ºÍb›-›\¿­ºO&ç6z-­N’q»³Ù-İ+Æbàèô·J¥4ƒxAÿò;Ôû‚]ä<F›©{¾\#“^‘ÕSÁú†˜ÿ‰_¥4Üuµ71 a ò}©D$^Ÿï\ÏÀĞõ:•Š÷ùY¶¸_ûîSÕç“@…|øX ”$²aı=Ô:ğÍMt \vÖ¹$›yµ3m …¸"¯Í@× ´Åfuq_l¦»ä`½p(•Hn-÷Æ¢,"¼ÅÇ¹X“BU†6gã	?À‰öÆvH6·-íõÔã6š¯ÛMÅl*Qßòxäu!7[¢KËdG"É3õó”ª‡{Ìe8À¶˜cJYR«V~?6VÅ<t@«ÓĞüÜ…ù˜ïÒOÈ^ÿ—aá_ ¼Åkà­//	Ş½¨}\ì²	Êİ¨p[Í­Ì½ş¢]éµĞ2áÇbµ0²ñú-}™”„áhïÜ¼e/8âçŒ2¡Jm¥RùX”³“m•Ùê$Frù8À¹Ç{}>p½å™™ÛNÌÎ®ó‰¹ÓF£cÀ"•a:Ã0Œ>*÷ìš(•~b[…†,y°§$d+hŞÄx_ô©TunÃº=SO*£ÕFsæöñÍÀmîôD6‹ß%~H,ë«.M©Àè·Bì¦¯à8ñ¤Àó
+`üûŸg•È59%ZP›X=õ•ç,¬I]=ğ±÷3µ' RG‘2‚[^•š»¦i}#T_ÅÛ3iµ)n>´†Á;
+Åè\gÛÕl­=!¸FıÔ@$„İîŞÊôÌm'gç	oÍ¦dmµ˜
+~<.÷LL”ºê\u’S0HAğoõÿL*sÙÁ6Hm&±_Mˆd¿f6§’Cı»KBÊhrFÉ¦&‰Òtíßª;íjïé½#;‡S)³ÙƒY(”ÊX£?Ğ>ğÔÒ—xû”|Z	³Š€Wyà¶¹•Ñ®EJİÑ/ì´Zü+©T$Aòò¿D:-ûbõ™FãùÁDœ*Mõ—f‹Íbµš­”@ÓÅÌ€Ì¾A$:Oaê4õ3bä|oÒRø•WH¼Â¾å¯‰Ór×†nNßÊ©(h·è´Âsr±H,U*”ßèhÓ! wÂ¿P ¥"‰Xù5>£1ı·Úw^r*•Š$|¡H,ù[•ÿù&Ö‹…"¡`$£ÒZÈpIÑó0¥ñ&ü‹P{lğqXmöê#a {¼ÂFÁk¨¼¢£Ù5pÁ¹í}«=İêÔ¾Ş‡dÇ3.“²øù\4d·Òjm¶úñ]íz¹ŞàTiïT…C½=ã[¦çÇÇŠ.eıl¶³ö_ñhßì7²£F‹Ù€_Èg2©T&Ó‘ø-$[Æ6øÕÌc6mÊfÉşL.¿ax÷h¥¿ØİÑQ¨=©ÃÃzÖı%ÍÈòÛü1XS }Í¿ú`5ù×À•k·oëœ¸VÒ²vŸi¤»tÏÁtÖå,Æ·ÌÏo)\Îlşº»»»<ŞŞòî=GMì©Ãd>­vØãÑ®BÌN£î­œ8Ù[vË¤&cÈ_*ë{=jXüÁ\›?`¶Ê”øáÛwîGF7ÌæˆsÙÁÁ±ã›G#á;oŸŞ”k³9 ]²µå6ïM‡"v‡>{$”>İUÀ¸ĞušzôÁÁiuë´œ#è¼›«µ›Ç>'Ü;òa'Ÿ­½€µ¼ZË’–•§ş¡Á™©ãGçf ï@¾ïÍÌ=>538ä`Aï÷¥RÙl&åóAÂÅú|©LŒÃç×¨7~xÿ}»b‘Hl×Ä}÷ÿğùûîŸ˜ )a,21qÿ}Ïÿé¾…B‰%ûgl©pİÂC/,K¬ÑÈ–Š ÛÓËËüéæWËñÖ¬@_9ğ˜Ó|$•I«/ÓvGîªàW;!MpLZmÌ¥[ÜFæ®$išXø"Œ6VuõHWw´WÍ›gó.½XÕ
+ÔŒÖñ›Ú÷iah5w¿a×2êÚû*mm¼»ô(-n×Êåµ[­P1[]‚øeÂ÷Ä¢šD‚=ËŸá=-xA÷4‘Ñè+÷È¯ŞÍY{¬Å´(]ç}«e\ß‰[›,´Z£ö“8Ü·ØVÀşmyöuºØÛÁ/Èä¬!àO%rét"à‡4ÚãÛµY°Ù’În™kÂ~[‡T­2°C sq0ÉHgÒPMöB_·A¢_hïğë4k4ÖP@ËPÏmêêòúóÙáR[[(ÔÈr»!CB €„@*Skô–3ƒÑ³f‹Û‹F{Ë~_2Ù·¡«“Ü Ò£ÁÚH<”x€l6«Ñê³Ñã'„mÖ¤gMZ‡İvØM&ƒŞÄÚêøt#à hZg#÷Ò_Ã(œ"Ÿ¶®ƒ.w®Áå7²£ÙèvÆ¢İ}™´Ç©Õôõß½ÿ×o¢.8İÃµ…ììØqÈ§:vbIëfçOôJÙ|$öĞõN°aZ«SÑ\éş|®çt¹û"ÔË×eœ\íïŒvz
+¥Ñ±ÉSS•~·W©0²;èÖ]¼oPäÔWN~¿B²ê’<«_îúƒX£zu¾üÌûj¯=!ÖyxÕ3â7òÁYÈWF@s?÷ÇÏY¼ïAåÚÜ¬gF&eêg–f#Ó:ÓdŒæú©%@ôVrB`26ê›¿¦ª×MäŒà—5q¼ß“ÓMµ²59İ4é•J•ŠÑ™>¢èóºåwñmØ1àc÷BÖı¡ûd7²¾÷	úÁ¡4ıIö??,}bqäêÿAé}Ìş+ïí?T$=8­_ğãz,ÃõÜ7ÃÑŞÜJ,~¿ğ2–-½„ÃXğŠR¡R0jˆ¿ßzñÿ=÷o"™ûÏr c‰XNä»ø¾b<áùª}íÕ §åú3­”6}…Á®`Á5D¢kğ|×a‹ÍÌ02ÚÀ8ìA{W"î Üƒ´¢|x¢Øéu«¸­czg{'+gNZs§*ÒDŠ£›;Úvˆ•`8wgO`ˆ@¥Ç®½G6Š¡0>•ÃPz·Óe¶ªhFçâ‚şP:t ²ÂO‘_X‚şä¤hÑø:¿šæ±×mÎˆÄk:SîHgı“UÚ2~û¡±ñ¶‹„³¡AğÛ€S3à¿ğ¶ r#æ„YäÖj®:"×vœÛñ”ÆíŠıŸÚ  }y(™èÙXìğº=ŞJerúØÉİ{ºËN÷{´ÚéH&º;S)·›Ñb-ãô$R‰”ÓHîÒŞƒNáW°Øêoh•Z­WÈ-ÖlÛæÑCûvì*WJƒá&‡‰”Ë­Õé·;‘è(¤’./0šËH"ò»^¸§Ü?>°GÕù;ò#ßµŸå·jŸŠTĞN¸RˆÉ¯gkóI¾
+-NŠGë#­şôò'QHğm$ĞCüç‘‘úzFğExş:Çw¢sø^pìò[„Î¡Šà":'ø{t‡`•„rtNtÚ!)«×w.À¿Úü•Ä{œ´îGE˜ƒ/ÈBÛ>ÔÍû)êæŸEgš÷|âøe¤„ç"B'):Æû
+ñïGE~òXäş Ú¾JPÿe(_ä•ÑŞs¨Â¿¡şb¡¿ˆú%š"ÿQ4÷Ü)¸§ùh‘/E“ğ¼‘7‰î"câ—ĞºúÜ¢'àŞ÷vàÇ9ô"fqçñI|ş:\Ïâ*5Iı'ê¼>Ş)ŞOøÓüeÁ1Á£‚ï>;-ü¼è€è‹¢÷Å3â—Ä—$IÉ‚´[z½ô{ÒßÉÆeÿ"¿ *æw(P¼£´+»”*¦«ÕÕõê_ÒBº¢ÑijÖŞ¬ı+]E·ŸÁÌ‰º”zÑçÉ¯7R¼ê#Fóà¡1_ÕàušÏ‰á­ñLÁ³¥ùÌCJìn>ó‘'›Ï4‚ËÍg!”¡ùü#t(8„£Óè´€öB®v9Í  |'Q%à4ŸP6mĞê4à‰Ch?šBÑ,”¬GÇÑõğvİoeø¿€æ †|Ï@ÉIø>ã;Ğf(?
+÷èD½…õÁHë3o„@©9aÄ)(;OÑúødœ9hw´Ùëx}f2£>2é5Šù]ù0¬‰´]=ö•#„¡d¼Şû(”ª·MÀLänÍÜS_á,Ğ>ëoÔªu¬Ô_{œ8J£xÛZ_ï±z›ƒ(ÔäÛ”njRzCBak†ÈÊcĞ–ôp¬PA8:U/Ù[ïOFŸªÏ2»JJ®\æÁ(`Àã0ÒpÍÁÈÔEïCğEèÿ€Õ´{
+endstream
+endobj
+18 0 obj
+<<
+/Length 826
+>>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo << /Registry (Adobe) /Ordering (UCS) /Supplement 0 >> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+2 beginbfrange
+<0000> <0000> <0000>
+<0001> <0042> [<0041> <0052> <0054> <0049> <004B> <0045> <004C> <0020> <002F> <0050> <004F> <0044> <0055> <0043> <004E> <004D> <0053> <00DC> <0051> <0059> <0046> <0047> <0057> <0048> <0025> <0056> <0042> <0065> <0063> <0068> <006E> <0075> <0067> <0076> <006F> <0069> <003A> <0073> <0064> <0061> <0074> <006D> <005A> <006C> <0062> <0072> <007A> <0070> <0066> <0079> <002D> <0077> <0032> <0038> <0030> <0037> <006B> <00A7> <0035> <0022> <00E4> <002E> <00FC> <0031> <0033> <0036> ]
+endbfrange
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+
+endstream
+endobj
+19 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /Lato-Regular
+/Encoding /Identity-H
+/DescendantFonts [ 20 0 R ]
+/ToUnicode 23 0 R
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/Subtype /CIDFontType2
+/BaseFont /Lato-Regular
+/CIDSystemInfo <<
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+>>
+/FontDescriptor 21 0 R
+/CIDToGIDMap /Identity
+/W [ 0 [ 527 297 575 575 575 344 575 297 191 674 254 520 551 503 606 551 254 400 814 551 463 458 526 508 679 507 430 575 210 575 575 674 585 561 575 675 575 913 547 510 334 551 554 575 575 728 370 304 554 642 576 297 297 638 370 520 791 624 575 815 750 747 508 250 750 503 791 228 1010 500 340 210 619 499 724 551 760 440 ] ]
+>>
+endobj
+21 0 obj
+<<
+/Type /FontDescriptor
+/FontName /QXAAAA+Lato-Regular
+/Flags 4
+/FontBBox [ -94.23828 -182.61719 1116.69921 918.45703 ]
+/ItalicAngle 0
+/Ascent 918.45703
+/Descent -202.14844
+/CapHeight 918.45703
+/StemV 59.57031
+/FontFile2 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length1 13644
+/Filter /FlateDecode
+/Length 8799
+>>
+stream
+xœµ{x×•î½ƒ^ƒÁ ÷ŞH½±	vR”DJ«%Šê-²w[²åÄN¢Ä±ä"Û)Ş8•<Û¥gc{“İuò7NµßËÆß&ùü­âİ·¾s‚h9Î{Ù| 0wîÜ¹÷”ÿüçÜ!Â!1ºñZ³>ûÉŸ:	-÷Âgr×ÜÉO|÷OYøıBá›vï˜Ú¾ËÖûB‘9hKí†æˆÎG€c÷î}GN¬ù²İÇ/#„3sûg¦^üŸ_M"ƒÓèá}S' õèA8~íóSûv4u­‚ão!Dİ‹xü ş( $ø´ #Ø*ß¼¡Só(F@QŸGñàòg†Ñd?ª¾œ@mˆ¾B	–"$ÅÛú9Ç§—Éİ…ø¨98æÁš;ĞV„â¬ƒõ8à—JWŞ1–¼5j‘på-rù¼éå©dÂçu9+§\NŸK¤SñU—A»·÷æâïÄâİ¬f·3à´¥â^FÃ(µ:³EgdU|öF¹@Aë´“QÏ*=ŞÆ ÙÊii¥Ô(œ³[cZ-§¤¥‰”VrZmÌj\^(¤_áoÖ¨UŒB"Â*•ÍŞNgı«]£S©UjİÜ	§É ³áZ›5·[%R©\"Ñ,8	Ãh4z§a‰ÄaQ£ûK?¡¤ÂÄ Ä±²—‹“iîÇ'iFûôÓZ†.ıD´q‘Vüç%L3ú5pİh‹àPÈ2	‚Hãe)y}å÷²¤ÈÛGŞ¾j‡Õ"‘+ãÒ¦Ù#©ğ³±ˆË©RaNëtGb©LCØíÕ%b%kòE¢	:èok]?<±míÚ¦F—SoÓ™æÒMş:¿¿ee•¸U¥Ñ°ø§™T&İ˜io‹EìĞ¬T™-ş@ØJ+0¦0¥Ü>4J˜LfK<908±¾Ğ•koji)–ŠEX©2Íƒq¢–¥ßówÂ:m(J\»ğªÖÉ;-¬´ÇcW-¦V-o÷ôäÁÓS=]u~Œıu]=SÓNNw÷ú_Çs¸¡­¥Ğ‘k‰†-f³%mÉuZÚÂfõú·ÏŞ3¾-¯mã÷œıöwî=;6FÆÆÎŞûÏ8X(Ø¬V[¡pğÀç>sø@wÁ
+¯B÷Ã ­ƒKKü`ÿZXC²¬e&zq•µæ€éä½)KŠ)´zÿ­ÔnZAsEJE+m§Ö¹´:æJÚÄ©1ÿkĞ›‚&–³“2P“ÔsAÈ˜;ñe¸pœyl##øRÃ¦q$l"-¨X‚×÷
+şÊ'°}ñßp¯´ “È$Œ\!àwá¯œ=ËûM}Ã c±PJF+ıÿsÅBuÄãâ,w†tŒ=ı´ôy²t×O5J¥pˆatkş÷Sä:1àÉ®êšË
+ÃD7©ª©ÆãØ%~ÄÈ*Åøš–Ã,¤¾ R)MŸú²à2­P_y×íÖÕın¾L©d
+Äî€¡O~öàz¯=,›ty•ğæØ8{‡LªR´&“^Ë©dR©LÅiõ&³V¯TIeçëMz½Š%'X•œĞ©àÆp™J§]ø{>}åpßş¥ßó^ç[Qu^Ç‰Û:´UãÓ®œ\¶Oß²}:–\ËÖ-Ç†‡š²v–HÅ!lÔÕ×57öbQ·Ó Wié¸«!œJe³Ù¹-[òy÷2•ÀJÖé
+ÇZo¤Ìsã…Î€ÏæhlŞ°y_=ÍL÷ô…#z=f•*a”A«SKdØíîîÚ½ëW¹TÂïÓhğÀ èè ü»°*Ad@]­0YK&K|‡=7ç•1#ëöohoÕé´ÏãDjÿÚ®îF>=ûûCÄ‰»û6ç¨OÍ·aŸ/_ä}m[z›÷¾5£ ·e4/;æ²óepŠW¨+˜Ï·Zxêk;¬vÇ.gÿ‡N>Oîè¬9\:½£‘cÃémêÌ‡ôZ¼Ö¤dùš ÇWW‰5¶$’>¿V÷Ø¯Ænu‡~·Óa³ß´y4•1± %“­¯³˜ëNæZ0`‘F£b±L¢l^ğcXj¼§ocq·XbšñYlœì…UºÉøpÀlU©Åb	ØœIïø±€QŒNÈá%ğÉ‡ÀÔÄnÁ'µ«,ÖÅ²Ë†CÜåz	?{f÷®Î¼Ëáv
+;wßöÖ[eÙÃZ6lzæ-Áel³77lØ¹kdcK«Ã…‹?£¾‹uÚ€?›.Ü³fÍ²vo"SY»ìûêö¹µkö®V¬àÍâÃ]uÁëë#ââ“‚_ô!c?õœà×æê=å oSÕ¢*6Uî¿$¦÷Üm•ItbÍàŞ:—ÓªëV[b¢­=%•/Ì67b©Ty›‘x"Ng÷wUFr`¯™ÕöºÛ®š[ƒûï1eE¶»kb6ßfÕºœ¡ºx4¾–¬Ş ÅÏáDrgˆDtVõÆ';³Mabã³]¡PcÓt:è7rl0Gc½}ãD,'ÛrJ†0–â^ê7´¶€§å@ç}»|0[ Æ
+f¤Wk^¸*vi«L§jİ}.g{ÛØÖC‡Æ¶´·¹œNW[û–±C‡¶µµ;]_ÃjÎçiÊ>8Øß?øàP¶ÑããÔ”ğäöí….¯c·«°}ûÉSÓÓ…n·c¯»»0=ı¡±¾hÜ`Â»wşí³»*«éù,ı÷q˜ñêX»â§µB®Â;mï–cñ€İ–kÛr|ßÈúöˆD$V2*•Éâd³MŞ Ä2ÆçË¤»òÄÑÔ*•^/lßq`zıHKÎé¢„‡g¦{ºÁ/=mmr¡+äŒR.7™ˆëNôôÂôàtjË`eÇˆÇërwÂÊ`İ`³|±„ÀÁåëĞô@T“SÉâx”H,-¾B¥äËRoß?¤f9ºÈ…š–Şáı8ÇBéZ•­ O•V,¿“ïUU¾U¢Ò­Ò=é×Ô(¢¥JÅô7g7veÓ^–ÃVk4ÖšËçs¹hh„¥)³qdşÔíƒ‰T¦TiNw4ÖÕ‹;İJÂÍ•{¢q%·uìèGzR
+<C¼³èôjÎíŠEZóõA‹YÃi5&S}}>?9Ô×›ÉÀD}cJ‘˜eİ*	µµƒ‘Ö à™Z«Ñ™ÍÁú–ÜÖÉ‘-9—+N’¤D€œËñ]»:¾§!¾«Îi´ÃúDb‘L¢À2¡‚ÖÜW}²ìäÊâ¯şP)ÁË!Ğ¾±ô¶ÀÒ/ÔØ ¶*Øeg©µCİ*;\‰¼Ë;–JNO¾ë‰ÇklV)JNc²x|ÑXşøätW·/€qÀ×Ù1¾m®=™Õù=~%«Tmığ-ÿí‘[nÙ:S¯?yÏ™™éLG¶ÊbÀ%	C«”
+Z&õúöÌİ~fïŞş>Ÿ‹E¬Ò¨w1ôÈlcÎ¤ffÎœ£D±ÒiŞ¿ómhEgMã¬1Ÿk~S"V+ºJr…$"jÔ×š’N½röš(™^EËo"-nu­fUqoŒ‘Š1ìƒuõVs2Ş×³±£¹1‚uÇœ›­ñdW÷†¾6‡’µšãÑ\K¾­­%µš±ÃÙ’Û2vàĞ†MéŒÙò¨Šõz2©ÁŞ¦Æ€O§Ñè\Şp,‘Lg£M./ne‹9È¤ˆ)24nlÚ7ßØ´}(™²sngV¯7èõZ-[×İ=ÑßÒR„Ç0Ö—X™Ìµ†B:=Vkôz—S‹Ä˜’Ê„"ƒ±¾¡«³¥5±Z 
+ú<ñèÛjÕêä
+À£Şéútz9-ñ0Ÿ'¶ø)9äöL¼LŸ;4–I§3ÄsàÿN@Á‰ªÿ/G•Ú }ÿ{¯1Óe#]Ê÷Sx®¼C­ÒpVs¿- Ñ…‡õx#±X<óøÀ¯Œú0¬mtÇúµM¹AÉ©Í¯?I™ÁD+ÈZ£‘x<ñz@PSr|~Óèşy­TrÀÏ´^D'h6«Õ@
+•Ãw6¦SA¿AT"Ù¡§°\Ê —Ë5@—“™SCW–ÓXmu¡–ŞæÖz°·$´é~øèğÑ«¹ûò;­]e{É¿87]%"ËUIŞşAÈ¯U7ğ0Ö‚Á$ãƒMàsëööÚ–Ïjs§»!’Î4DÜ^Q&VªB¾ğjş:6¼&›vØ íÎ†Hã}}=ØãËwnİytİú,±Ôv1%‘¨|Àêq;œ ĞFÀ‹Fc·[ÃáÛ±Zår†s‘»…eÊIn°au’K+tt'3ş:³Ué½cçğúLÀİœˆwwTG—ŞÁ£èÀPÚ»e×e[€±J½ÖLÒ¥L"‘)—ÓV*;hÒA«\*•C«Á`!É„ä4\SÖßÛ|°Ñ|ÙÂ—o²ŒéZ5ù¸rğô9xW'#¼sö§Y;g2xİ±ha ×RO8*æÔş@sóÚLcsÛáãÔózc¶ï84}xÓ¦æF»ûƒ]=““òMñd°ş! ç`m,ÖëÃ¡¶ÜP!“öyt‰”sP_òA¬/İhuº›×­›<:>ÑÑétc…L§1›€g ‚Õ¨¡’ñÆ«uKRk_šd¿©t€úşS¯KeÜsÁ­x_¡h
+(1ïË‹gURyéf|³\®ÚEíVR·’.-	fa\éK`ˆhdÁ<¬;x•FJõŸê{Ğ¤T‰NçÏ+Ã|Êı¯:L*—’ºxŸO•Q1
+ÊAmH¯¯sz ÈºøŸ†ñE•Şóµğo,y^¨?ûÙ…·jès	ú4BI9k€>äs‰ww±ÚRüŒàòÅºX<MPË>yVğ}‚Z\2îM*yÓ®d¼¶ìSkBeí:ˆ.]D¤TjMa9éj21Ÿë4U6î3ç¸X´§gb|şî™©œD$¡A‹6G46ğÉ©Á´B_üèIº¿iÆPš2ÏLKÕì–e´\$Jzöì}àÄøD¡»®AI¥fÆÎé4êÙ[vïêëõùÉ-R!„\5§×ª¹;¿›U1Œ†ÓhíÓÈ2Ì«{öb™è §³Ç|¾¨wW¶	üıısswé@ş%Ør¬«ä+e(¯Ö!ª8£ƒ4²²<¼Œì.ö¥ïõûtZ-şVË9?_ü‘UkÌ:êù‚Ú(‘‰¤¢’@&•ÉJÖ ÃoÓSn£LZ¼—¸¢D¥6»„¾ì¤[<XÈÃ¸8	Ö5ú€yQW53®Î§†qÖ†ŠëæÀ«
+\ûq}İ6|„6K¼x{®oÓğPs£Û	‰@{~Û¶6oÉµ;\Ïj¸€/›îëmn¬ê´ÀÜülSgc³?‚ø_“óûnÂï²
+ºx#Á8l¶¥³ëÖÏîØ¸9×îv“ŒdÛÖ‘¦¦`PÉv0ØØXèiÊıZ­Á¬ÏdQÅr…Ÿ‡õùW2ÁU ’”‘H~…>\ÎJ/}Ì¤ à¼BË¥Äyü{š¡Í|‘[IbYÂ†b‰^{ó…ÚÅFƒÉl6L¼»ôşBŸÒõÆÅ=aŒÃ¼M£öÊ÷AÒçJñı“ZQœTY	=¼´–eÌ²Uã_)’s$eTæ7ÜÜ×ŒYL6{¦qİÈìTGg"ÚÒÔ÷‘á!•ÊéŠÄZG;:Ó¥Çsk¢§«#¿}û‡ÌL÷öúƒv[S)Ivš,x÷®ooïë7€]ùƒ}UYñş²T¬Ó¡¹ôˆ¶ğÖgÉYÈ¥©'ÿ,…xvM¶Q©,ÓMBÈ¬Má†|Ûú®&>Å°V[Äã3[h×—~öÂ!àD¼gú·oî.DŒzíV5_€å
+£¥>”Ÿ¸}ñï0Í—Ká¾7,½Íû0|KYj¬°jwl¹è«’ŸÃ™äüš®æçæüREaİÈ¾mùºzPù	êÅ½Çsí^O'U¼òGïşhÇbÇúzH}¨wé÷¼_~UÕMmÔ»z›ërÛå„¾Û-Më×í/t¤Èí•#çG{ûbq“åë*¥Ë¹ÑæBG&ÖÜÜûÀà…ÏÌôöƒg#•[°zoD°ËÑ‘Ÿ™¹eGO_(¬Ñpàï0ğ®Y˜ã§ ƒ‡í4 ¡U9É5et2ÓJA÷:›~ı”Û™oİ<7»qC®ÙåËµ:›İWú´Bg´}ĞN•íê^3ÒÛŸÎ:Ï‘t?•èìmLû}à˜Z×—Jµu¦3¾€ZÇ+NnÉåÜnìt·æ6mÍe³)xe‹EµLNõZFS˜°„TjhèPW*åõ ØD¦3“ò{´­–ŒH²•iÀ§¬:Œ†Ë</qm†rXíF×ªÕµø•Dd™-^Ã:à=İ×{æHcøMvığéõëší6Èßİßëö´µoÛ7¿u¬-ïv]£&hÖÛ“M|Á¨Oeš›Ó™`½Şˆ
+ÚaKD{{âQ‡²¬V·å£1‡Çı÷mõ×mÜpb¸»+™ Eû$9Ã'6l¬óm;;50˜‚ŒÆb†tf`{k4î¡©9¯;mH%]v(²İ•LP_GÂ7áˆ:­ÛiHÆC!—CÍqj‡+ZÎm'A¦ƒ×©!×Ä×÷ÔXV¬g¥ö~•=WrÜdbfòŞ3OoêïmÏeRákf9£Í
+·´n¸qfGWÇ)nO×ö©ñh}ßçû0
+üLSKGçĞĞÖÇn¿sb2•¢~ùÙ{ÏÌLeRYè®º-J,[Í)hÈr÷ì½ã¹ùşÈ˜…¹TÉhp«\Æ-şSÀbÕ2s%ß-3’ĞÒ;Ôã„ŸqÉ4W}Rêšvµj”d‰£‡
+bZªÃÒkv[Ü¬åXF&•Ğt2œïì:•ÏßÈJå¼=ZÜ¦IKİ^¼¯Ój‹‹@·[‚}¡ãVêd2‡×àÏÃåÇ2²¾ö!dàÓç—şÀŞ¬àÎêêh­)ÃWúz1áüóm#ëöV‚ÕmZ·a×BwB"öç£ÍÍ}÷ÕÁ›Å÷‡BNW¾cBÂôL„Ÿ§{Ü·P‰ßÚŞ×S½ÄûïûÌÛ
+¨ÓRæ~«È÷5>çq,{™ƒe5^çr\Â¯Ş5=Õ–³ZË[ñdç£ë×:]íùÉÉS¥oá–‘Öæ€W­ÂkÖ>^ú;,im	øÕÜĞšÇK\6£±®-©h<Xïp©í#îJg,ÖjÎåD›åó%DUqv{¤!óáÖæŞ*«å­×ÊÌµ±ø"õ-Â]MJ²‹ĞûîÒ«-L _ÍÁUM¬$ĞäHTu‘Ó˜eTjp­T,’Î¥3Ùô^!ğL‘Xºv0•r8–ºı†ãÇ>zøxìƒVr_}å•Ÿÿâ_¹,Ş¦È„ÑcG=rüÌ ¿ô*şaeºD-T—3±ÕE[Q¹ÂIaÑl§3s`öb‘lí@:å°eíTz`­L$şp'ùåWşñ?å•¯ªXZ&ÇÃŒ;~ÃÇ9zøÈ±¨P&©ìx 1Ù-¿ªïšTj™›ºÈfA­Â]/á‡ïÙ¹½# ©7†Â#nşÂ—Ò†Òm*Nëÿä7åóÕ­ƒ¿ù©à²Ù’Hõ÷ut&Ó/§óÿ6HÉ@ZÏSïj4^o*Ñ~[$‡xéOKOğÄ‚_=Šªu=bprj—Ühp/(ÌVó˜ è`•xAèQ² Ëó {%\ã®ríØu¹v•hÃbÎ?æšÅİ
+–1~¦t+C+T,«PàO<®S²téo@¢Ö¸à×‹Txà 4ÏÒ
+‰‚QqÅE‰H?¯KJÂ'Æ—Ş
+Şo¿øıjî«Ëğ;LLŒßyÇÅ‹wŞ1	¿ÉñÉ;î¼xñ;Ç'É`à4SÇMMvvxİnoGçäÔ±ã@=^ê—O9½c†””fvœ>óägî>3³#™xLî˜9s÷gîŞ3×ÛW©;öõÎí¹û®¹=½¿?Ğ;°g®º{J5èßo÷˜ø‹FÀF<Â#•³Jã—Šo~ìŸrÅİ6»Íæ°¹¨F%Ã,-¾@õ”wÑWøMü§ˆN!ïd+şébwâGÎáGK“ç¨=gñ—KƒgK}ø9"ÓMK2a^p
+BÔøgmìZš5<àšâO¨{Zà»~57vÍ‚GX8¸•-’ÍØbJÆ{ºF7ïÜ~`|Ë–µk
+ùX˜ĞôT¦w`ÃÚhœn*t¯i­[¬\/ß63usg2Tc	ÈL£ÑGB.§š…‡†÷î»áô‰“›GãIĞVzbüæìüñc›
+­Ä8Ï½Ï>ûàƒæÚ)#vÙ;A¼6«ÑÀÛÚCaƒ‘ê:8;»ekÿ@2a³j4¤
+244>¹ÿ¶m…‚Ïçó¬qBRås'ãM›F7÷t5„°T¦.İ7õê4ÃXHáµwôìŞ==]'N¤¶İtÓÇ¿pËm›6…ê±İaMËp]oö¡GûëB2©ÑP_×‰$ØæH$ó…
+6ƒÊ^X6!bòZí]N¸v2–·Ö·CÆªX|“üJ(æ®|ÑhÔëùÌBA,Òğ×BfÅ]ù±‡KKK‚§ÊõÏu÷2=ÕœÏq‰ò<VëD•ÇÛMNvæ½7ß99y¬ô8du‰ääôw=ùä]wMM%’ø¢ÏÛ×³wöî;÷ìéëóù`UŠÒ£|1ä$¦÷Ûu(§Dœâa‚b­X,
+Å"	Vš»¿ø)Í˜ïú:Ù3ÅÃ¤°¡‡?Ô½dÿaáÛj¹ã‡Èo]zßÊûCG>¨Ç}ÀùÛşlµÿµ<åÏ—újì@VÍ-‰ÀßK/ó´/¿¼ø;Áåâ!ê¾…u¾¸ñ+ûõ‚¨mDÇÑ'ÿíÙëx ²´ã°û¿~×ß‚ebRBÒë5jÀUĞÃ’mN­dÅ Ò äù-½†c•x)YµV«×hV,ù/f È7ÕÎC§­<6VV-©}şìY	K?öA$’gÄŞ/Š*5M\›eÿßE‚p™l>ù„×dÑ—JM­¹ÂÿS„Ü=6±f-de¥=àFl OáüEÁ’0Ş3˜°My¥R±‡Î?¬äÓJ›™f„üHFñ°C/¹FX×D®‹$ñå [-.\q ìR<iR)E8,ÄexªTÆ¬‰<Î´IÅ|	ğ9•ñ¡RêRé^™TÀòKg.ÂÑŒvQl±:œN‡İÄ[T*í¨ù©‡İjä-ª C](ğ'lujNÍ\yUêÄ¼ßæÙH—'ÉW™T•I	Eåª´ï-=şŒV&—$ª7¤2)ó9@Ú½Ïèä
+QéŠXñ{™L®¡8¼ ËK§ÌÜCKE¸Ä%è;gÓ–QÈå`=¯ş½^f£ñ¿ ÿ@æËåªòó7*¨¦7^ÕBOcŠÇã„7ˆøDŸ€9+Õ[|>\W
+5D‰HC(T_’™,ıoF@õ0ÇUuz™©¯ì©¦ÒËDb’¸²Nk²éu 26é.wƒMÁHX²ñKi“F§ ·¾‰8;x–ÒœÆ`´…§#±PØg•³4#U«Œz«Ù%‘°•]•ÍÀ{¿2£+ÏdVŸ;ÀÍf5/·ø*?ªYü6¯kÈfâß±×e»rè"‰4G—næ]|íG÷ÔTYj%~OW×®!_«IX­4V6ÇW=º°ĞºÔ{·ŠÖ×M&llÔGº:Èöcs€^Ù~ŒyFğ+l4üÉD*‘ŠüFƒ?°!ê°Œå§cæ7¶E´œ,´šCuíñ€Ïb7ƒu‰tº1‘Æ‹ng6]èÈ¥Œ†5˜Ün ®Şßi2Qÿ´¦=çöA—Í¤~ƒ]‡’•w)i…Fk¶Øüf«Ş (n²¸=‘–‘övŸ/ïêm©ìVº3]r²ªPApÀä‘_‡Í×àtZNk„‘ÈxÒí¶ZL&»Éçx,f½NÍq*«±{¼ÄÿXz[ ½z*è²ºnuÕø—Íë‰ï™ñhOÏØÖ®xÔdÀßóúûçæï¼kß|ß /@åx7,Ş¾dÑ6;Ævk&=8°wÓâí7ï+¯šßKê å,ÄcjEãT‡ı òAõı¹gÿªàøçªÀ|É_çÊ8.äøy&¬’)qË8Î­àø5MÉ>^ÕÊ7].ÅGµ-|I$	Dr©ìç|­‚´Jøc©T$åKDÒğ•´útéÙûMÒ7%€[d#ù·2Ûi>-W°Å=^‡Ûét9½Ô£
+ò(©¢8éqºN·Ç¾üh‹‹ú¦(
+ ¢®˜'{è-KÿFı¬ÊØU³Ó¶’Õ˜•°”Kt¬İïHÅ½.µêE«­±yÃÆ3r«Åb%Û^‰š«vvlã}w±íÔÔ4Ù%¥±àòç­ü–™`šß%ÿx°úµô§Òi±^˜€~Â•FLè/M#$a¡Çq±¾<Ríkˆß†¨è~şãh|Zàszí„ïW }¦	 1%Gwğ£h€ã+Ğ8ÿ_ĞKä7´?ÅË¢sÂû¡ıêã}ğ.¡~jâë‘Jğ!4Æ×¢8ïÊÁ˜ûñ%´…|Ã' ãJù/ ÿ.t	]‚C0&œÁñÏŒ.Q—	Æ½‘õÁ¹OÁgZğ£® u½íç!èÿ$ôİ‰NÃg@àE/QW–şó=/œFã1Ãu;…C›…rtI(„şz¤ øè6rLÖCúá×Ğy±)øbd¡¾Ş€¹Nò‹h3_ˆ
+^COyíHÁ;K*zè,ú<PÎ›ñSøyü:^À”‡š¢ş*òná]æı–÷.ßÍ?ÅUlüN¨Ş&Ú$úøcâ—%aÉVÉ=’’KÒvéé‚,'û¨ìÙÏå´|Bş3úvúŠ¢EÑ«xPñŸŒ’YË<Àü’ùeRù ò%åìWÙUyT£ªo¨ş™ûª:¢îS?¢ş©¦^sXsŸvB{A× ;£ûfÕf†Ğ§ #¨ZÂ{^b´ğ	ó%pZPõ7Fb8ªü¦›«¿yğ;XıÍGzœ©ş a<\ı-„öG«¿_FóøÔQñ :‰¡Y´íFGÀ[ühà;Ì-
+ŸPõWÚ¦¡¯zDÃpåšBóh;´ £h/F‚£Nø;‹vÀò=-ÇáûŒoGë ı0|¡cåvÔ#Í—ï<#ìƒV;rÂˆSĞ¶~5”Ç'ãì€~‡«W-ß™Œc/L®Zz¡§­5‘¾µc_;B=´l,_}Ú÷—ûFáNä³|g2Ó]p²ÊC°‚°úÕñ–ûØWõºş˜”@Mp´©¼ö#å>ó¨®*ÃYh#’Ù_õaøuzÙ.ß'´ê>#p¹Î¾2#"ã©rË®ò(äSå{m¯Ñ[ENW¥²„1g¡ï!83-İ×\½¾ş‘£Ì³
+endstream
+endobj
+23 0 obj
+<<
+/Length 903
+>>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo << /Registry (Adobe) /Ordering (UCS) /Supplement 0 >> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+2 beginbfrange
+<0000> <0000> <0000>
+<0001> <004D> [<005B> <0032> <0030> <0037> <002D> <0031> <005D> <0020> <0056> <0069> <0065> <006E> <0061> <0050> <0068> <006C> <0072> <006D> <006F> <0063> <007A> <0053> <0076> <0043> <0067> <0073> <0033> <002E> <0035> <0034> <0041> <0054> <0046> <20AC> <004B> <0036> <004D> <0070> <004C> <0066> <0075> <0064> <0039> <0038> <0047> <0074> <0049> <0062> <0042> <0045> <0028> <0029> <0052> <002F> <006B> <004F> <0059> <002B> <0040> <004E> <0044> <0079> <003A> <0048> <00E4> <0051> <0027> <0057> <0078> <0021> <002C> <005A> <00A7> <0055> <00FC> <0077> <004A> ]
+endbfrange
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+
+endstream
+endobj
+24 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 180
+/Height 79
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter /DCTDecode
+/Length 7463
+>>
+stream
+ÿØÿà JFIF      ÿÛ C 			
+
+
+
+
+
+	
+
+
+ÿÛ C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ÿÀ  O ´" ÿÄ               	ÿÄ ? 	    	!"1QA#23Rab
+$q‚&5BGrƒ„‘²³ÿÄ             ÿÄ 5      !1AQ2a±"q‘Ñğ#BR¡Ár¢²ñÿÚ   ? ßæ4º(Ñ£FŠ(Ñ£FŠ(Ñ£FŠ(Ò‹|yö32ÇÁ¬ë¡=PËNe9e»Kv>‡zö›öBæMt)>ÔDOš²ÛC™®õnóUµw™óPÄ™ğ¨ßRe(†Øgãün­´Í¥v®†W*Ë'°E~bëÊáy+ˆÚÜ»Øú–•ºcµß÷!„ô
+|Tâ•!)üüüëY—Ïº\M»&­ÏAŸ±Èé ‚AÎ†&á×ßSnÜäo^6ºlƒ;¼CÓË–6á„W´zÅ ÊÜJÀ’<ÂOcN®QàX¾iŸí›y¦-â½WÖQIßÙıCµr\eIWİ*cÅ+Wğ~u…í¸şy·¢¯&ı 1îï]ÍòB’[¨ˆÉ®¤Bû{ë.ÍHÿ Bÿ mrk¶µÚ‰1\eÜbóc_ÔFH%O½	Ô¾XO_»­%Öõt”$(ïşàÍf[[%vn®5rğJŠÄã$‚dÈÎi#³[Ó¹4U”6ØÕUËmßÕ·a]·™Eêl[²Z÷škw:Q’ÒGÕ
+YìøŸi#ÜÕ/·ùî1¹¸Œ<Ûd@š‚[RÚSn6´¨¡m8… ¦ÜBÒ¤-
+HRT’I¥Æöÿ t0<“ö•VF–‹ì2Æ‹o7W`µM62ÏÊù}¤(dÆO
+èõxï™]ãÛ®iòU²Üœ©Ùğ2Xñš(e9=_‚]”Ú>ÈLØE¹#íì÷R‰ëjR  úÿ ÷ó«lz×»JÕ©
+ÇÁS9o€2 ƒª‰Ñ£F­W¡£F(£F(£F(£F(£A }Î–»±¾–ÔY:¶«i±¸×™RkÄëØMı5m5Ëø
+(JŠàÊqßmdx¡*q1¶äz´lf•KÇ¬ù×”ä–×ÔÖöl ½[Cî”;1—?ÄW}wªï]2ÇŒúR?ªÅâ‡pÓúÊŒÆéè5$sÓ1Î+b}ÈÑØüK<GŞ*şmà“wa¹¿ŸÌ…Yd`Xµc†ÓÅv<m.x)+óô­'´’>~úò¹UÊ²á¢˜®ßQl®%¼¦Ã‘1êìbšeƒÈ?^ËP	BOì¥øƒÑè¸n›w‡ÃÖDz×ÇmSd/!£ûµ7§ë®*»ì~FÇäjã×©&ÍòKvêvCænîÖdW¯-ªˆyÜÓÇL¥¥µ8@Za-)úP£Úºûu÷Óu¹I³<‚ÇøÃœóOsZÌ2‘ãğ#måcíÍKÎ)´©/"¸·ĞRI>$†¢›ÖViÈ˜ÜoÓzK]¥áïÛ÷íå‚gSq¨ìŸæp7ªÛ±ù_ç¼ƒ Æoeamì«!„ÈvÂ²M¥ªÔ•Í”ê’Ì@R<‚V¯qIùJ5ƒou~I±O{»»¯ÍüÚ·£€©³XÇiTãm’ô@*+%@$$äG_:‘3şzz_äÑèñš^JîW›¨Æ™ÛçeDµ˜µy.lÔÌ„ê§H*ùòt¬y¯£Ş¸ıÚÂˆIó#ïKâ¼y«â’Òak@$LbTG\œRY' ^İËª\K)Ü­º¬§9eCó¡—>íK[3Øu¸Ê˜Û-EiKy¶J»H*ëäõ®ÍU&àå8FU´uøİŞ).¼^ouˆ\ºı³©\§fH§ı¶Rİ%…(<|[RˆJGKm–ß–ç%vI´YÌ}Ì¹GD‹j¤mÌ¨èq>Øhšätçš‚QõvÇÛY‘ñÃÕ*\Ì›a·Ï9«­Ä^ğ–ÍV>ŠÖ³
+ŒÄªL5MJ:q*í¤¨õÑp’¤º‚“¶Fzó#ë9«ÄİÂ°â–L) ¬¥N& 9ŒoN^ &—#Á¦îÚgÁzç(šoÂiÒÊ}¦*|JR¦ÌVºB¤¤ûªu~#Ï­6ÔRG]êTåVêñ£…UuynëòæëÌfU5]•l8’ír¦™úì˜"2ÚuÄõĞAOÔ€ “á¤öÓzq÷~w*ŸdÙæFôVÍÊlZ­­nÓ«€&¸ò‚ÛrˆVÉW}IO}‚’ö¶YPmDjø¿ç_zÃ†-6O©!ÌcROPU ’r3‰Ş´åå&óÜb›bÚKÀŞr]1©¸"×B§c2ä!
+K.!Ğ™1ú-m*JR…:wWë„,wfNí`/Şyšº¯ÖÜÆ9ŠEA•ÕGCoı]Y„£Ày>ur‰RÎ*ŞIòón°ŒB§¨•õÒ¡E­©ZWælŞeJı_ŸÔZÔ°¢J~¥¨ªÜ?RîåT7Û_¸ûÁbî ©bVk‚mkR¢N}æ[eéO—ã{eÂ–ÏÖ„' µuğ@uÄ1…:dBAÇäUÇÛáÄ¢åA”‚¡R‘¨+Ü@ 		5L`œµ¿¶mÇ§b´ÙD8ˆ
+±›¶÷Š°•%@yH­}¶¥ şÍ‡UøIÓÎ1ÅÆãeøFCÎ¶ZIb\GBH=)'÷J’AJ’@RT F¥ı¦Áp¯P««ßL–¹ÔØb[ÍTßÿ %j+mkßeÂ‡O)y¢#²…‚ZûånóñŸ†–±®sX]á™uôV…•^/S|ì™Ô€„Ìr¿ôÎ¡Š}ô!¯1ô’ „µ/”7Ş(û½d}ÿ :ò­8£öö¾Ôúf
+*@vƒª:`“3!SƒYv?#Gcò5¯ÊS‘CÇ÷™{Ï€ş½~0§g›Q]_ãùšõ%#üÕĞ¹©àíè[Ğ5“ĞsK-²ƒ"(“Mu%È’ÑO’TÚ“……º ô{›WM½=Şc¡z·gÇ-¸†¯fI^ÀSdˆ×"›ÈÑØüI¼Yßê^dYd›ÍÊœ¼]m·x»¾¬„ˆÎ­KJZ%êäö¾Û_i‘ãó×Æ˜ÛŠîFÒííÖçe|ÀÏM]k³ìŒN–C¨a¤•¸¤¶ˆKñH* zRKéZ5¤Hë#ïLc‹7smí ©¼ûÁM‘ó¯”§gcò4k]Ğ½Yø¥=%Ø¢; ¤'åO¥Š¤#üÔEYèiÑ±<Òw9Ç¤g{G½8şùâµÃÎù¼z³ø~MPÙ?/*!3 =¡-²áùöÃªmŞÛ¸¨IŸ˜>„š©kÚ~væ†–	òR~‰Z•ñ€c*©Ñ¯;Ëq¬ç™b7Qì*í"7*¾tW›}•¤)+IıÁhÕ°Aè¤© ƒ Ö¬=Aws<È6h¸÷‡^¹[yÊ,˜_çí(‡SñÚ‹ûö›ièíx}Š!„ı–®öGÇ5lÏvÚ×lÆ
+¦ºt´ã­GO¿1`t§Ÿs¯'\Qì•(şı€ k—ÔC¡/b0Œãjj]œqbÿ ô6õL´VóôÆß®±CiíN5íGaJ)ï¯÷÷e@[|Uõ!â*vÊsŒnÕUŠã%WİÅ»1æV¿×ÖÚâ“æ€®úq=¥C¢ì2­T”İ¯¼ŞOHÌ|ækçüÖíşØ@p¡¾ì«ø„ş LójÖgzË·ß)ÁxŸ°Û‡¿XæYêº)wS‘
+
+ş#)–l¼P™$!GçÇşÖ¿¥G"¸-„ÅÈ9_ÍĞM®òåÙ—ßŸkŠXOUld¨ÔgB–A= ö”Û!$ƒg“Çpa»‰Äİ¹İj¼‚\¬JDKÙTNş®=_ê¶™+}¾Ú÷<Â”
+*é¥ ûÇ^‘· á«7œœÑ±gÊ1¬‚CøôÛ×ıˆs™}^jm//¤ Wäãk$%Ä;Ğ>I —*›¶Õ¨iÌ$júŒôùÑÆJ»Afâ\@f¥'Z²7… D„’wÕ“²ü¥áw23PÆÔ^ÀÊ/1FÑbËÓq9l;\KAÖ—¿ÔŸ¡]ô£ØèêRçĞÓuÆĞÿ «ÿ ï/VFÍ.+í¯ècä›ë®m¬Æ¢TTÖÚ72l÷İXCM³‚·*R‚GC¯Ÿ’Î¢R,·Â=fxÙ–æyŠºúu;>ÆÊRb2™IòqÅ”È’§x¡Ü	P$)3ıÃÌÕÑ<ñH:…,<ÉQHÒê&$jQÏ*Øõ•-=ızkï*£LcÍ{˜KˆóA
+J¼Tì(ì@#í­yz©¶Û~§\@m¤'ùV¡â ëø„=XÜåâ4ÊšVyˆÙØİÏb=Uã6¦Iua¶Û1ÔµÔ@ï É$ N£ÿ Ue£úOx…ÚÀñÊÉ=Ÿ·v0Àÿ äüjWëBíÎ“9Oş…?µ—·÷K
+!Æf1ú©‰ŠØb))£X½y¦*&¾ÂYzb#¤:ãi*)B–e ©DzŸÎµ¹è7™@Û,ï¶àÙ²§"Ğçsìd6ßİM±^—Tù‚5²Ç?»?ğ:Ö¿ n)S¸<dßä©P®óé¥ûgä²ü6¢?åQë]¸Ÿmj:+ĞS8¸Pí%€o}/ÇÇJ+ëÑ{h*9s›ú’òN¾6O˜İåÏ@ ™¦a–ÛY6°R‚=Ô´ƒ×Ğ†¾:+Q;È°l/-rÙN'[bºÉmÊ®\è-ºb¾Ú‚ëe@–Ö’
+ODu­dzZò¦^éæ^œÌ³oBòYá™5§õ5ó’´¥¢}å})mÔ¶ÓˆY>!^âR ¾÷#šÜOÚltdù· ±F#¹ĞŠÔk¦¤È–¥’–YeKqå@	$’5¶Shˆx§yç5[²7<5® ”¼¤¥Ä“Şê +¼“¨®s3O(ŠŠùñe?›ªÛoéÓ‘ÙHgo¨a'!ËëyM¦ÕàÃ’B)ù)!¶Óş}ÅDlWÅ1¬'‡‰â0êë+ØK0këã¥–l|!	 $À×©?›p×Ôn½Th°ûL9pY©ÏÙÉêô—­iû'É‡G‰' ë$4êèÚîXq¿z°˜ùîÙïn5k[%€ày«†P¶»øºÚÔÒ‡î•€Gã]µRSpè_ë#ËıÓ8ÌµÆ/Ór@|¹"w-@Ñ§ªFf639®¾o½[7´;Mçx4üzYÄ*,.®*©%0V^m·_º†iZÖ‚’¥Éï¿‘©Ğûg!o&+’z‹ï’È·:Éæ7ŞÁ°á¬ˆÊ‚qÂ»ö»_’~¼[m´‡}ãü:Â6ó~=@ù§ÑÚ@‘C˜ÓÆƒüB¡ÆİibKN!×P¤•âÖIı@÷óŞ¸="y!]Â+Œ“Ó[˜“£áÙ%.BüÌRÊáĞÄ;V#É-¼¾‘Ò”Ÿu¥ÒÒéOaH))‡n[‚ïÓP0> ¬±ÄÑ}Æ,înÒÈ/!?Ç½Jô¤“´”ƒ¦y“­‚ofÈm!¶ÖÏi·wqIjÁjLi( ‘Ğuµ–ÜI>IZz) ¨GÑp3­¯İMåôóÌ²í`í–@ë˜Ü‡ÕÙe-Æl…
+PiĞ‘ğ•8ç_V$y¿Æ-í¼ÍÈİ-Ô¨i¦#©p«"X´ìË í-0ÒTTµ(ô;şÊ{íD N¦FN;îŠl÷'ûå=M{¼—j›QO!Æ­Së|8¤-Ä„‚(e*ëë{ÚU~Ö™ÿ ŒsùÄV¯-=Ú›/e ¸}ärl§QÕQ¤rG:Ç}À¼ŒèŞª¿ûJÕ±ÊÆ-ÆJ‡`à—ı‹Ú×÷¢>øì®Öe|€«ÜíİÆqÉ6;œãõì_^Ç†©-¥É!Kl:´ù€HúïVìò—ûÙ²{»„lşêÔeqı¹³‘tåŸÕG†—!¾Jßo¶¼Õâ²UÒ	 BÅÆÅ‚S"sêj¿eîíSÙVÚ.'Q‘>%·Û?
+M³í:ı8ê|£ û¹=°s´¯úà>?,=a¶z§ƒ™ÆêQÅúèø¶E+j³,‡RØb5Ë¶·ºÒ:I+¸ÓŸXq*?RÖQèC¾»%€ú}ÖãùÖñb´³âä6JƒmÆŒó-©àRµ!Å…%$|‚GDkçÆïAõnŞ|?‚|D˜¬ƒ£È›¹Ü¬ö
+
+«a6„©°„=×ŠÊP·H ô·„§°•‘YJm\)´ƒïÂtõœmşü«×lİì«( Ü7İ F°æ §˜Üy	šÍwÏÔ^£€Û/nh±èÒ(òæšÌh"Iòÿ pbÁN²€’Re7%ßØ¼@øëF²\Û[qê•Lß+1
+‚"‘Eƒ¬F	•0Ğ–Ó%'¿–× ÊSgì¶ü>4iªO*%¢4ò§¾ÏmÔò‚’$éÛo/.QUìllMÀ¸…âyLÌ[0ªalVäÕ!jS
+>J‹%•ıãt¢ÒşR¯©µ6¿«S.æúe`››½‘î—¶_)´yâ·®è²›<lÊ?ºİŒÌw@R¾çúÅışçï«[F´·iïô?Ñ‘^Ş÷ƒØ_™u óÈO]*
+LùÄòšœvf3Ş.c²qN?ğŸl1h3K³[¬Üy!RV”ø¥N-U…n	 ¨»?qoÖÅeüŸ«f£x3µ9CqÁ]³ÜËñÁû†ŞMXq°	PÕ'£G³£F‰ÇHôŠçø–M·³ê=ßñÒŞŸ¦ˆ¨Çfı<ğ=ÌáîÔúsí]}İ{áøR7JÂ[±]e´dW¬6¡û) ùÖM¼|S{yòûzø´™=ÀˆÜTØ\n—\K($¥°MgÂARC÷$şúª4j"Ñ”£Hé	JJ8‹lw) "gHCq=cDOH›Âlohó“¶ş›;3UyNñ‘Ya_<‡˜sÄ$(ÖtÑ öï]nC¿µ;Ç™ÒnÜŞÓf÷xÊQ!‘Û=ã	}¥—šEb;î©‚¢V™ÂÒzóHúÅ‰¬KqvO ÜÙ‘®ï+ß‹q²Šì‚cì"$÷ÚQ!¢•ø{-¨©µ~é:á¶HoJ">íK{‚„[­È ™‚†âG<"'â0
+NBS&æ&oa€Í¶kovÇ!®x7ø4{À·¤¾d8ˆá”·ü9*R	ñ>$óÖ¼š_æó‰ö0}=øod±&Z½O—BüÃT+˜xD”×°â[ú\?×¬¥û,$ye»µ¹.ÓØSîÅ®àÀÉ£WäôìJ^Y†W=5¨ïNb2œDÆeh[aß0¿SóßÉ×œZİ¼ƒo2=Òw6Ÿ|šÌ–öK·qkã1ucSû-{M¥ó/ôéKÍ¸§IZÀO@9ØY*÷·>™ªNÂéïIï$-•$s)9€­ˆ…ó»pñNecŒ`œPÂ÷umÒ7îr
+ªyÊÎKÄ[’Iøp²„% µ-öóÓojvk(¸x?¦vØ›:Ù(—gt¦Íy·[PZK(™ÚIQHòëµ$|‡÷rjØ8ª¶b<øòšÆ`Äw²ŒÒPİ­”À–”¤yx¥l¹Ğ¸Â—Ğ¦ãÏ6ÃJyå¥(JIR”z ¹'öŸ³¶ñ(Iø±«Há6œD&éè.uĞÙ Œ@%â7˜'"
+w/•»}	16s‹ÜZiÌ*Ì	WŸ¤›Y`£àªÛ+Šá~òÉgÄ(„©Háá§E’SÉÄ8i¶W––W¶ù#¬g’é«ªm¢GL‡¡)QÛ(Zú÷>=´wò=íÌz7ÌÏ°z’Ï4ªIbît&E.ò|y¤¥Rì
+SEÄ¨6À$ ZP_5ÔŒÛ$´•±’òêkğöë"ªÆOˆÂ˜êj‹õò\S(KL¸êCAâ@Y4§øÕÒ@?Iëç5tØ¿A7 8	„êCd3	Ô$j3¨	‰À¶:ÃãéxÇ8QµÒî¬CLÙBÛıÅzS¾Ú|U2b«‹L6%+úçAù>)Q=i½ŞÍª–èâV¹µ•hö¦dê¢Bj_ÙÖ+¥¢#HJØ[¨·Ø	JJu¼W©²¯f«t·ç&®i t¡Šê‚ï¥Ã„Ûiy?èyN$ş4Ñ\&kkaµ<v’Ó0ØBBGIJR>   >šÛ
+Ñ¡^="=~U£iÂ®¹aÒGöéoã°INûø§I™Œ6¿Ó“lös(g3À}5ö›8Ë*ÇsgO,¨}”*½Ä ØØÓşV_Ëi‘œ‡#x9mÔ,Ï’;t~E_cãM]cvèhB0<€ê®Zğ†,Qn­ òJ[Hú
+‹éÇµ¨­ßKİZ‰ì©yÄ‚Iü’k>úÌpn2Yíßd[U·ÜÚjl{,l7’T×n†š±G‰G‹ Vv¤ø’»ë¥ûTZ5Ú2“ GÉ?jS|É•jnÈÂ8?³Ÿ:‹˜ôåÚvd%ôú\ìW’Oi.æO,üYM\GŠye¶66÷1cÂ0_#ú­¿ÚØŠÍ’~ndÒ–ÖãJ¥6ÓMÒµ©$¤¿4k¨µeè@*lğ;Lò)Ÿ#¡)‘ädb¸k««ê 1US˜±c2–£FĞCm6”%# ”€  | :Ñ®m±[   Q£FQ£FQ£FQ£FWƒº8fèíİÖŞ[¼¦˜¸­v*¤6;[
+RHK©ÿ Râ±şiEìöîËÛŒ¾ÊÏr[nº%å›0s€–±ü¥¶›dºçÀğ‡`ÊcºËÇéóñ
+ ¿ñIiy»ûÎs`sl>Ê5^F˜‡&Á \B$“Â1 H`ù/Ä‚—+QB€RÒµ8•HRw}nò–—Ùñ'—Qıu<ö'c)qæšÙ½ô‡M	+n.=™*‘´! ¢¾A“øY²d°ÿ e÷ÓS”Ó¥ËÛöî²K¬JÍî"c¨u‘õ¶Ì¥õ)`şÅ1%@şÅ#SnëKÇ8éKcUSd˜åíÒ¨bc•¦ı6ôÄÂ¶D†Ò¦P\qÀ!)K`ø§¤—0·gÚ\çl®³ÛIqkUyhZT&®Q«ËIH]>á
+WI|‘¤%iP8Ûå&=+‹¦Ú´yµ4Èş!J)ŒÁ"@ë]=¶ÜŒwÛÛ-áKüB÷q/]gÆá$!éÑ#wº+Cì†RÃ_¨q}x4—İZº¾0`².3eeÓ,™³‡‹"|CvË]5sÍ·˜ÏvZZ£ûx¾²>6Íñƒ&ŸQMÜc4Šç.îo[›”ZV¶„†â!èçôõ1T|“—×}´¿¯Tn9Ñb40ñ|b¦<
+êøÈ
+F‚a¤¡)  :Si*T¿=:Ú°·¸|¡n§JSË©Ü¾,ì2H’®î5f·èÑ£FŠ(Ñ£FŠ(Ñ£FŠ(Ñ£FŠ+ÿÙ
+endstream
+endobj
+25 0 obj
+[ ]
+endobj
+26 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Contents 27 0 R
+/Resources 28 0 R
+/Annots 35 0 R
+/MediaBox [ 0 0 595 842 ]
+>>
+endobj
+27 0 obj
+<<
+/Filter /FlateDecode
+/Length 6494
+>>
+stream
+xœí]Yä¸‘~¯_¡g-º€…:»4¦?û0hÏØ0Ü³Ûö û÷WI]ÁJEIIfevazº’)E0Œ›ÁÏÿşÓÏÙ_ÿ•}~şé³oöÿÏ?=ä§:·²îçÓô™g•¬Oªéşdß¾?üÈ~<|yøÒşıãÁ|ÿ§çÿjÿõ™Ìş³ıïïÙŸÿ»ığ/öKİ¾?”:õoí¯ÿ˜şZyÒe-+Ù~/í¾ü·‡?ı!û­ƒÖ¡¥K¡
+ÑÃÿşiòh‹æ
+j?Dÿó¯o¿=|6ôÙIä¢Èê²Êª:ÏşùËÃ¯- ÷zƒ‡}ıï?ÿşKÉ Q‰ºR6™P*+äq0„ÇÃ¨Ôá0¤,zêÀõEqø<T^£h­N².e¥‹¼iÿ­„ªd¡›îJ·ËXê*ÏÆi7ajßôİóz$ĞİˆºßqÖºß0qfİï£H ë&SíkDØİÖÎÔ¥A«Z›y×ÕÅ§İ=ŞÃB]xQK¼¼<ìR[¢WÅÅa=Ò]é(ŒŞ`±6Y»•-EŒMv„sŞ½p‰;‚`‹9ñ^¨Æ†A Çœw¯LbÃ ÈbÎÛ8ù±aGPà1'^·ÆÕ¢qà˜°2¹=ØF ßl#Toöµ½-ØF¦F”k‘"{1a÷ría÷ría÷ríaYªÛ‚İËÔ¨r-NÊ"&l#×n¶‘k·ÛÈµÛƒ=fåo¶‘©åZ¤\lLØ½\»AØ½\»AØ½\»AØcÒmÁîejT¹§È$&l#×n¶‘k·ÛÈµÛƒ=V]Şl#S#ÊµHÕs1a›2²Ûƒm*Øn¶©»=Øc•ùmÁîejT¹³47l#×n¶‘k·ÛÈµÛƒ=ª¹-ØF¦ÆmÎÕ}x¤Zªº«†TÏT÷UÁ‘ŠŠê®:6RaOİU‰F*®©ûjÉø—­¯áb{Î÷ÁÁ×l O_>¿µ3.²¯¿ffrŸÌÿ¾~İ/yİd_ÿ’ı[çâÙ×¿?è“®µªŠşX±‘ıH}*ëîóéˆ‚#%o“OğG*ˆuİÈSİä¥œHóLuªr%æ#…£d=ÉŸáÈ‹}[ÑôŒ#ÂP´<Y0gáöfçCŞ†GğÛò×~¤9‰¢\`ğØ¨S½œhì|Jò†W[™‘âTTKºa®‚p„B« 
+KëFŠúL>¥©%èYÔÉáˆãª²ZbğdG,‹¾C„­,0+tuğ||W{WyØõ¥Ğ®·VdË¦á»öi`/¬Qôõk«[úí7ÁG;õbì%aGŒÈ­Æy½ANÁüW>£tÊôÓE5×šeÊØJú°õì5ñG-§‹¥\<ƒGš”éUæsz	(›8ô
+ØD*iªèfÎEÓ@f‚“¹¿¡™Û¹“ı°…„}†Jy¬7¡\±#‰Ò¸jª;çªÔª˜sæ™ò<ŒÖÕNëîëj(¼ìĞ¡’Ïğ†«¥­ NMÑoÕs\­µ-ìf¬VvSè¥‘mŸ€á)¬CE\Ç nØğ„ÈWä6±°n,Öš8G7èèfÊpî.İ‡ué’Æ¥º_rÓRŞ]:–K7ÑÎWàÒØJÅ2Š9p.İH/l>cËÓ+`-%ÍEÆ¥›ğüİ¥;È¥»sÏ¥›pŞU»t³"â»t&‚Œwwé®Õ¥ÓFí‹‚¸£Ú™7³‡ó«';:¾MÖv¦¹.Ïu*¥qD…:U“7à¼Bu 5¦Ãèæ8¢ïpÓSÓ²»Ç.à<ƒipwÆÎx¢»ÒºÜ£õ”´Éj]îÛ»Ë}–Ë}½ğ1½ğÛ’æ"ër<w¹r¹ïœ—y\î‘ó®Ùå–ÚÙrñV9ÏìëŒ´RVN‘k@(rŠ\Sq¨îyÏëók’ŸÆèÈÏ¤•–1ºGlïF÷9F÷9ôÂÁå@©ç+|&iƒĞİ¿İİwÎóİÎ»j£»:Æèä¹8¿cZÃ¨¿zEæQ ¶£{œì6Ô±$İˆ!ÎûÜ‹€!È0­9X³r}fM›S©ÏÎ©ÒmWST8B¸‡Îqp‹±ÚÓ!ÓYIZä¶ZõƒzI8jrÏşÜNögbS\ƒ#:`°2°üäŸÌ¹VGô zaw í¢sëˆVwGôpGôÎy™Ç­>„#ª¤³ŠâgÑÈ*÷OĞÎ¼P»’ÀÚéèÜBVæŞ`$!1­‡sì÷Óhçh¢çÒv¤öa»­mÁ®­G®Õmj…Æœ’Œø	çÑj€Déeª	½îÕşU]ßyr³«5¡×U»Z•ÓáSwsPĞiál VãBÙ3eàq:ß\Ş`/½CŞø‰S—ÿ†sÍízëvœ3Âñ;Ò¶¬ıW]Iƒ9-æØrÊª±Ow¥¶œ	O¨Â‰!ñé•*UŒÅVİÛÈ¿s×.«¶µ‘Péf½¼ûOÖç@ì±¬‚ı¸‹E?îvØb•‘ØÒ†Ibó-1œµ§’§ppôâ<ÿ`†S“ š,÷!Ä¨ÅœØ˜k¬İb«´ˆDØIåC²wÙ'H:Ñ.Y±ÚS«ôä¨¯šÅ*?ÛU¦+öbGì‚MF\â>£¬@«–"Õšj>nr$Ğ¹»åUíã™9Cç}7RUÍ…xíâp7¸°a~)ˆvÄ6Xî“#gfz«u÷1ofmÕ43Ş¶¡Ÿbn„üà9Ì§N‚åDÁg„>|ÍªbÎ…36ˆÆÒËæ7çA’šÀÒ­G-½;ĞÇ&Dáô÷9ÀıàÒD·™1pÕQÍ%oD%PÈr¾S,••/,W¦¢}k0oÛunÜ¶#ôÇ{èHú7ù\R=:,ItÛ*Œı0«Û<df¥ÉÈà2ßÁ¾ÀRÛ
+‡ëpÛQ|”š¹Û3$u
+eKïï¹f¡™%!™Ê¢K&·K©>ÆšëÖÃiÙº|s.yr1	bY‚=",™ çĞº8HŠ±Æ¼@ûÏ<¾R•H†ë«zîGA†X=Ğr*©M‹íSìÉágğ¾›xØ_1~ÿù÷_JÎUh¥Ê„VuV×¾Kÿ– †n¡ĞeÓĞ™¢—½íÄL¤ÒMä ıDZ68~"ÿD¾°_ª¼ì®€TQ`·¬(bÍ»l¢Á.råZİvËqGÇ®Df3»¬ı«nâÌ»côD~Ô‰‰Mœ\Áé_Ó÷¾Ş ß¾ş@ä{í[—}ïTóÁÈGùC‘7Åa”ïm‰ƒ‘?Œòù\…ÉU[$&lCó˜°ãØ†ÏãØ1a÷4
+{azò/ '¢Î|²V°+±×²n4'î¿ÖØƒBœ–….rˆ—‹H“-­+OÅ²ºpU’‚ôÊp‘ãB,"Z¶t¤?xC_Å€‡úÌ£K;“iÀ‚R ¢³mË—Hà
+Œ–)ózÆ*iVM”}¡Ëˆ%ĞYN¨hZI:æ$iÖş9áß†Ÿ©-nt5]•áÒê´„÷a`¬¤•´rfçÊÉô*²ÌÉ=VÊ3î£äT°áŞdVÜ%]Á¦¯şdUfCp>PÏ	‹ôuáFÈøœàcÊT©órF•KUQo«ƒıÏtRæ“UZÑÏ1xšáŞ,˜t£j5b€QUyzÆN3Ú“åIä‹‚” ²ï´oáSW?rÆ{í›wcé·o„—=%<Ã™Ih	ílC}"hé´Hpjòkiª¯XÍ¢ğ%‹â˜9[« Y—Şºö«±"EXUrq±zíiÒ!ê&JÏåØÚK¹œ;„|+[@Œ“ÊnZ½…ÅÆ ‰Ppa
+)çƒ§øèd )C«S™¢¿îS©ùñI<jg-UÄ
+iÿñbŸ¡±0wŠ¾ qo©ÒÏ-•:“[D¥­@#˜ÃÄúí[Ş†qÃpğ3y
+KÖ¶“KJÛ¦G/£©Ïáğ˜'Ğ¬:-Ô\¤uW½·iÀÒ^šZx‚ĞpdCp˜:vĞ‡áxD[Â¹ØyÂåáUêEQÌ*É@oQVs,aµ£ó€sRÿpC`p8à"A×kUìV0x¦›xïğI8˜TòÈ`ÒáNÍÿ$E¥è‘¬F¤ŞáˆënE“r»ÆjÂÅ!Vµ'ËÉÉeÊÃÏ7ˆRÎ˜(M).*=Çò²!£m	6œJÔèmbËÈ@ ]Cz¬á‰Á <Gzbçue}äõÖ–q‘œœ¦¾¾€lœÕŸ‹<gGs.Iâ´R\›†])_Êù’zµrNO±Ö?‘5.Ì„*X Î
+¨Şóõw`Xõâ	B‚Ü²#Ÿlf«œ¨âë{[M°„Ço±SP…`—ı¨ª¸°¤ "h›ªâ(ØÃ[ÏH]ÎePañ§×.šòW…{[B^W|[ÍxÆÃÁÏÀ‘ÕîÚÅ–fŠbØ/ËC¹³ŸH[(7§ÒêÙ¹&68|¶‚p”k”I»òå¥ï|\¡‚ö•Ÿ•@gÃ‡Û$r~•¦¥Ä†QQÅBÎ.¯%ÔäI-Ï›[‹¯ôä&ŸìˆMCMqP[ãÕî2M&|[î>¾Æ`-ø|[€:x¦îªš‹ÃóÁ´v„äü0E#œ•ú€æ†¾ù<"+·ïj» mx¦8Y§ííü†pÓC»Èe—	+µ'ü÷ÆÍŞ8YÂ[7=3•ğÆÊa®bí9â·éIwš½Ó€®ôœU¬!K¾8Â3¥§ÜÊ-{NÊMğ3ÃM6KÕ¡ĞÆÃÉ‡Kfê6)¹±ì¥=´v3IVà™>;¯ˆˆÍ¡R˜ˆgÇx4İSº«–¶Æ¿-G«xÆ	NÂo{C#C pƒ¡0xl´–QmÇ€Ã;£ßL²p}”óZ©Ø„+g›Ş.‰qÎúpf˜ó›iìb ¨ËP¡—C!P¾a®
+ğ5|sU ·Ê=C®r†ò °>x×Ãõ	PâÀ >À Ò: ÒÚ^x.=!iÈö™}â4eÜ¸0Vû2Ş°
+.{€!.%f8
+bY\Üş(c„Õ…u—‘‡Õ2Ùyu/¤–1İ8FË¥Ô`åê?e3pÕ{Ş´rÊÅ=H°ŸÃ×sfªD>X(¯É\KHŠ|ƒ ÁAáu÷1n8HÁ—BØ#d„V8!Öú`à %cMñ|V½İ^ è}œ`/†ÃÚYœĞ×Zä7õI
+°xÔ™´ÄK
+X×•…C²pxógpİ#ÍI–p;n÷•°©œÎ¨ë±]	dtN)À®ô¶\Zº<ƒ™Xˆ3bIÚCKY5³¥Ô.‹M§µ–šñ÷½|¤ R3€Ãê$µ²>dÈmV²¯Âóv=„Só¬$*„£m!¼<‘ƒËØ†Á:’#¼àæ7œ*$kkz1»‡“€ß5!Ê²ˆv…((àXÓ²ğŞQ
+’¨z3–Šj„.ä.`–¹”âÃê›£¬»k=IÀŒÇjcÀqv¨İIus”b¶;†BÜ{Ú×µ¶«¿0½°’Ä!š9xûº¿û*ğ ?cºí\ÓnèMVXåÂR¼„#¸f”ãlÀÀl@æbéÅ0´ñ|VK‚<%[3—›|fàK8Ô­®À )õúVÛ5’Î]E·ç®±ï!¹JÃºÅ
+‰¥vñ¼
+X<	,ˆ ÅRä²¯ çÄ¾÷Æœ5Å±§ Ç¿Ù•£5šÏ*u…²o6ÊBíNÒN+r¼R? £ø”ô©\,§9&Ş®‘‹Õ 4®yÛääÃiÚ9"å'v)9ğ…×4Ñ=mÌ›z8(Š8#İÌÙPûÆ[X
+«v<hªè'8Ua¥YÔÙ×”Ü5EıÑ81`z9Ô¨æÃ1s9*qÍ˜MT¬IUÏäšv‡(Ÿáİ•¤:^l8¼ÀP…Ã—);ÂMtıu‡ùä¬qmù˜ô¯¬?ÇsıôhÒ}_SˆS˜†8¦vä`1(Ç€ã$ÌXenÜö]\-ƒG82jzú4Ù;Pœ5ç¨ %÷uÊ8á”@lû`™qÛÕmç”0‚&x¯qrPœòNg,½v-Ç¸XÁ:äª€”Ü·¸9¾‹¾
+ØúãØ¬Ï®:‘³rûv'ÁáÂÀAl·1,zíÚĞ–Œ&»€S+9ñ*,úñ4%¶°ôbÈ5–§½k¿’€e±¦í·b~f6´¶! f%¬õl—òs.œşÚ«sÃ¯æX—²´/• p®âDx9É³kõ'ö·oé‹Ö¸¶sÜa_ŞY‹Ú'ª«ŒE29½¯±k<‚“‰/!öM³°N–-É8ÈÊ*_[›O¢;·Ì«ÙÎİwwpŞÆ±2ßáãm³°o|·îöÀåím}ïZy}Ÿ&*§­…5[OØÀÊ˜“Ö’ºY5¿PÅªJ”^…œwYÀ±ÖŸ}m”]Ë"ïíŸÚİ¡,uh¬‡£µ°¥ÈÀzgkŒcßâÈ;#÷“@Ü“yß”oåÄ#9şZ€wî¶Ïò…p8İ;81Qmim»ñ,3®ÌÁ'ã±½Šcgo–CÏ¾yÿsü-vuÇc“î^M’İÄW°@sº»â»¸ß'ìVËéyªàÛ3Å¸Áî®«çvwê“ºsënˆÛªıä»ú
+6‘Ç<ºGÙvI	ôÆı™9­Õ÷½Pw †óá4ùĞ`­û®§í{ kë²÷´~@ …;\ˆã‡	õò^Ü‰zß†ı,I÷æ*¾T>°Û»ÕxÃ‰“À5ÕöûD@:ø`¬1œ ç¹Ë÷Hä‹³/sw‘şqørÑX½CüNÆeY»vÊÜZÔùŒ[±è<Ï°3öÕ•‚Xsl­}­‰iGøö'ûÑ.cp•¿´_0+'úE”­bÈuëìÛ÷M–}>}gxş¶ïe£NM÷GÎş1hdsRír©îó|ùëü±¿=üéÙoİüNuwğD¨ÂLdşû^S·ƒè¦nÄ¡ûB]¶ÛGˆìŸ¿<ü:ëŞßL\ß¦ÿ‡hÊ¬¿ÙüöÈ¢h¶ÀUÜş1¹
+ ¿JÈS+Œ™Ëó)*jóÙ§ªõé³ö¯oß³Ïÿñ½É²—ÿéù“»v×tÅÿåª+pá	â¹»úuÜèOP-9wµ@+N	ë=¢glX¯_bt›ãW\+EÆ¨8Ù¶å"ã7G¢U_&š+Í%U.?c­ìfá+O6A-5\©l—å8ZÉü@F0•Ñ†]^“9‡­‡Şİ°†„rLißF/C‡[Ã.b#àEŠƒ×ä9³\Ø™É‡ë¬©İ,ÑˆoùFàÛ07;©s"ü¹9°’ÿ„‹ŸZSû,áÉØ·2}¾»³‰ÏÙ¥=é—;"RG¥B?å­ô“õD‰[ï¶ñT]Lf‰‡l‰
+:©Š³·ä™1F³ü¬ nŒ·æ£/‘¼Ä›åI,<S'[ÈÎ¶Q´MÏµTâ+„›Û¹Kõœ1ÂZL7Hë!ÓCõaŸÁı`oï§LYÚŒö¥;¯C¢5Æ¼„y–C{ˆÕ”U(¾{şî´‘ÆÆã†œ©\L…fĞœ¶£•a%	<#“ç¥Á"ÄRN¹¨h±<k¬—Õ’x¹‹”óeÏ’³C”XP›vøPIı(È™ÖñÈsŒõĞÙG6dyèîäk‡”¹lŒC.Ãz>°^X[0¤‡/8|¥vÀàØTPjß¹ù}Ö~>¸ 
+{¼¡‘á°=Ô½ÆL©¥Ì§DÁü5ÉyÛGï*øŒ†#ÏhD¼l‡3Õü.³‚eSV§]Œ²9İ[fYœîƒYöFÔeÑVUË+]ºfñ«ùú™Y›÷¢ül…İtYšš&i6g¾R™I¾(÷ÊõÈ’WŸûºÊ>I57È7Ê£
+…¬	[Au½%°\Z¨¼f*1Ö·Á&	ñï!Ù$ö†RÚ`²E’1 ÊõW{.IÓ%Ágüpv‹³1++—ß BfKğˆxÏ(4‚ó(œ·åå®o»ĞÎLrIŒlV€©t/õî´¢–×&Šº<K×c±k#8"À†}Š é´óÁÅ5rMÖKGngã&’frÙÖ›ßãöí…0,	ŸÁüWë@Z£‚Ü=D´üÏgn‰ò’ÖÅ 0–J[`ö•Ş#®°¶»@6ú]Ğş ¸‚K=9³œìËÂ°hi6sè	í[™¨ÿS·U‰ò”ªêaTÅªoË)õ
+¬p*M@üÛ­Õœ„4¢„ÓLEªxÃ´Z*Ï4_!àòZQH|ø×¹ğ¬óª™ìd<û9™„³å²ú`ûÌ?Íª	¯M¼?ĞM¿0Md_şH¾U
+endstream
+endobj
+28 0 obj
+<<
+/ColorSpace <<
+/PCSp 11 0 R
+/CSp /DeviceRGB
+/CSpg /DeviceGray
+>>
+/ExtGState <<
+/GSa 12 0 R
+/GState6 13 0 R
+/GState16 29 0 R
+>>
+/Pattern <<
+>>
+/Font <<
+/F8 19 0 R
+/F7 14 0 R
+/F17 30 0 R
+>>
+/XObject <<
+/Im9 24 0 R
+>>
+>>
+endobj
+29 0 obj
+<<
+/ca 0.90196
+/CA 1
+>>
+endobj
+30 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /Lato-Italic
+/Encoding /Identity-H
+/DescendantFonts [ 31 0 R ]
+/ToUnicode 34 0 R
+>>
+endobj
+31 0 obj
+<<
+/Type /Font
+/Subtype /CIDFontType2
+/BaseFont /Lato-Italic
+/CIDSystemInfo <<
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+>>
+/FontDescriptor 32 0 R
+/CIDToGIDMap /Identity
+/W [ 0 [ 527 591 457 426 501 526 235 340 191 777 345 559 242 522 498 522 575 575 575 575 ] ]
+>>
+endobj
+32 0 obj
+<<
+/Type /FontDescriptor
+/FontName /QHBAAA+Lato-Italic
+/Flags 4
+/FontBBox [ -115 -250 1023.5 918.5 ]
+/ItalicAngle 0
+/Ascent 987
+/Descent -213
+/CapHeight 987
+/StemV 58
+/FontFile2 33 0 R
+>>
+endobj
+33 0 obj
+<<
+/Length1 4400
+/Filter /FlateDecode
+/Length 3093
+>>
+stream
+xœuipÕù½=dË–u¬´Úµ.k-ë°lİ—%K>dÙ–lY¾mì$Äò‘;±æ ™I
+„¦m:…éEÚÌ00¤M¡)d†¥i¡íLË´?:C`˜ÒN8
+Ó†Øî·²”Ø.İ7oßû¾}ïû¾÷oF•£ˆD¨ØãûòS×óô©İûîú0ôá½0ÿB²—÷ÌåggŸè¹¡ªgŞˆ*ı.À \·gÿò‘>]‡\ğÀ¾…™¼Å]ó!ÀÛvîÏ9€ªÑ"À÷lÏïŸ‹u¾
+ğ“§I¾Ï"QôZƒæ×Gòhÿ«œ$4AI!ôÌ šêEÅgùè@aTõ!éY=†Ï–]ÄçÍ}KüF~F?*rC¢!JM_B	4†¶¡À#)´€ŸÓŠÕ”In¶2‹İ²…‚‘p©…‚v›¥vı³¥Ö®¶ıïN@Û"XP	*5¼0ª6êjëŞ¶PĞfeY…RËëœNÅPªã$V*8N¯çµJ…ÕsL¶JQ©“íÂæ¿–eå
+)<
+9Ëjı5f¼úùŞ}€<rã~ê¬V£VÊ¥R†·'u8fV«Ö¨~ß¬Z"¡kxÕhÔ<g4ÔÌ&iE…L*ån|à ©`Y×°
+` Ôø¨³×;éK×¿JgÁfÖÖ¨ %è+P@-ÏÈ•´³á¼v’ü·´c"íĞ2s?·8<êª±ZcµGb½§RÉººÎÎ™™»şØ…–„ÓÁ²Éä©Õ¿)ÿ9ÔšpÖ³šÖ¶{?¥/qœ³1ïíˆÅı~»C[“é]Ü52šh,˜øáÊXÖáˆFÒSÍQ|æ´v{S¤co(.M øÚ'äiÊ€’h¬|Óªœ†ÕpÚ’„Ëk9NrËtbÛhñÈúÁµÖ¢ÕË6x‚ØÈÓC¦çäÉ+nõÙ­5&£RªT*WÈç†š¢É‰®nŸ_§W©Ìf;O§‡û£Q«•aVİ;&“òûS·*ey9Ã¤'Õu»‹ZV!«x Æ•
+Ã(ä•XXíÕ:Y¥ÑØÎõM÷ô§»[®FP0ÖrµgC§^ïö´¶fÔºj£IlŒF£RVV€"Ä8'ç©*¤@<Ê„Â‰°ÈY¼då<T+V)!•Êˆ‰Õr†ø=yYÍ¨«V4g«•Šøøë aßÚÇäeĞ°µ#$Ü>RT¤ıÿ)—¯†0*’ØX™ÚY'“cÆêtz½ÁP¤Õ°XÔkpÆc=™‘‘ÉÖÖÄÊk~¯·Ñi³9­–m‰Æ|p|£RÅ¨uh…¬u,‹yÎãîLİ¶c|<—ko÷zô ™ŠJı`³)ÎöNàŒšµÔù±x2Õõ9èeôòú*²ˆş EıE''-jOT’˜¼xqtpfzÏ¡öVL¹‹9L`ŒMæ×çv;ì¦úêJêHkçrçXp±•}Ä9FÕH½Wë\¶dÿÊ;ÀWôÎW/¹Îwòç?}¾zİ _òk×ˆ×èÛÁƒQ$XÔ¤Ú"Ù Õˆ(W @‚	Éu-‚sÚˆCNãŠæxœÀ)i_–—K1È
+Ò>ÖGUVª¦\X¥\½Ö*Á$ó¼SIü¬¼œ¦$6[[Ûl4öŠD*Õ0&£(ÃåRO¥·)¥«ß½g•h¨Ö)	ªÖáò²ŠriE—»x‡E¿Ë D_¥Œ¨¥pN?[V°¨i®¤é)¶¨úÍ¨Ìñm	yvû¶¹;ü>Ü7=uçb,¢“¹9Iµ¾ÙÕØX_o±’?ë'	‚çã~—ÛQ_k1¶QòÄ'“ÉLúôÃ¸7û _­3ˆvñ;³Ö:-WßØÒ:´ò;âœ^Çqi‹…×¹=ÉÔğ
+8¼öôÚãd’~U"$ªÔb)TÀN•Ñ¤ï%ŞSèôB¯ÎÌ¨è¿×¨”…tjÍ=E5Èà$¥,Ê–ÒIü›³‰N½tŸ;46Ö1°Õ–Nßqç}‡³K%].g˜Úº`¸‹°¯¼M_Òıtú¶å©éÎN‡X]yT¯÷x“É\Ì9aD)òÀû-ú-ğ/ËºêRŒJ¶ÄhQ:üãÿÂE¥Ör<¯å”L<ŒŠÓò<§U«*+¨ª/>¥ªp—ã¦¢Cvb(c:>‹{¹‡×>¡jÀ»ëÄ:"lLb¾Ø”Dö VÿÍqËèbÎ&%bzPÛİ Ü9É0JAp¹¢‘d{:ÛÚÚØ}áÒªÛç÷yİõ“`‡#CmI—›¯v5@nx;
+Ûív*ÿÂĞèH_¶#éõôØdŠ±ë†{L¦p¸§g3aNëõfûnß9y¬­NĞYîÊ„8AÈºÁ\%Ù8	¾U—Å¢Q*,ø·=-‰†FïÈÆ[œqSÓ¶Ñ®î@Ğ`¬¯ïNOåtwFÆgW:?}¢ŞÑÙ191ıpOÚQŸJMLäÏfzÎ`“¡)20¸ëîCKããÆS¤i`pöÔÒ2ÀşõH#ÿ‘fİi_’Ë6ÔW·%C{wXjoÛÌjj’~Ğíu8ŒÍ:¿y ³çúÏ±ì¦d¦×ù¼]£+g/xü,}õ€§m½O‰áJ˜RÍÙRLí7¯VàöâGâ¯£ét(h4M¾@2Õ»Úåt:íøsB×Á²¾2¢Rª&Ô=Í±z¸G0ŒÙÜĞX´V2Œ–H$Õ@ªsd„¾ÎàI&Gvôõ¥:Û’«ó2‰W)µà°òpœa5*üNG¼9kItGœõF½¢
+Çã{L2¡˜íË†‚z=DÒğÚ5ê68§ ×JÖ·­k¶0n¼S–nL¥È+y‘­ô%/—¬¯¨·fÉ­0ÁÌÇšá>89ş£YŸÛ¬ímÛ&÷mëÍƒzîJß/Ö%‡3Ó337×ßŞæ(€«İù&ÕÒâóšŒXÃÔÕü©ñ¡æ¨µN¥T(&—+ÑÓµ;Ô¹Ìdğ¸”X_íó¦RÃ?Ş³«ÁŞ›Ù5™ËÅb‚P¸]´uİ—ŸvÕõ÷Ş?:–h©Îp¼ÓÙïn÷¸F¹œÑØìñ–‘¦—YP1ÄËz½Ó
+¡6šM*ky„hÌåpšÌjµ˜+×>¢î­Ö Vğí–\¹%ÂHí—ë+©èõ©áÁx¬VÀ¾ÀèøÁåÓCƒñfAğûÇÆÍ£¹\4V[["ŒgsÑf¸TrpĞW ïfzøö{O_8ƒ~{3y÷ü“ç›Â×‰=®í;:sùØøx8¤ã]íÛÏœyé®ñ±p˜×‰Õî2Ü ß€ÜÏ°îş¢İ×k† –ğP„z£Œ’”—ßøH¦Ñpß$)¹J¡¹±éTA_êÔkùª/ªÔUrLıŠgY–U*éÃâï^ïßœúÎNEü3ñçmë#Ö*ú*d]Œ$7‘°§ìâê¬ÿÚÚáÕk…¯›ÕÜÔ+h†|ÅÉDRÈG%Ğ ~M/¢<~!I'Ê¯¯=MB‡ğ§(O…P˜¢QŒê	ä…>}úe$ş}†OâŸUD†#^$^$d˜<J>OUS‹Ô3´…~S”ä‹çÒ ƒğV:åÖ§í‚ØÃ”T¼Ï‹?v…9Få ­Ï	$Ã†âœDrì(Î)¤ÅáâœF8[œK ÿ½âüu4ŸCh"ú(ü£îE»Ñ´ÿ4ƒêaôC~óAwg>ÀMÃZ3¬:
+™`íƒj;f“…ê'@Kè@)xïEsğEg sÆe oFC€_‚¾ˆ¾RXaF]@i¾À9öÖŒjbp0sè‹tæ`İRq×¡g‘¹@YÜ5µ c?œI\»‘öf
+€+ì^üBa­8‰½Ä9ï<œQÜwÖNƒ=Ö©•V˜7­ùrz^DÍ Î½\X3ŠúÛ8Q+E‰—`vVˆ’–¸¸6qõâ.óMiDíæ˜İ"‡|Óì‹­kè–>†Á÷¥Ehs@ÛŒº7í^€ÑĞºw
+endstream
+endobj
+34 0 obj
+<<
+/Length 497
+>>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo << /Registry (Adobe) /Ordering (UCS) /Supplement 0 >> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+2 beginbfrange
+<0000> <0000> <0000>
+<0001> <0013> [<0042> <0065> <007A> <0061> <0068> <006C> <0074> <0020> <006D> <002F> <0050> <0069> <0064> <006F> <006E> <0032> <0038> <0030> <0037> ]
+endbfrange
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+
+endstream
+endobj
+35 0 obj
+[ ]
+endobj
+xref
+0 36
+0000000000 65535 f 
+0000000010 00000 n 
+0000000063 00000 n 
+0000000117 00000 n 
+0000040832 00000 n 
+0000040969 00000 n 
+0000040994 00000 n 
+0000041125 00000 n 
+0000041231 00000 n 
+0000041353 00000 n 
+0000047115 00000 n 
+0000047323 00000 n 
+0000047363 00000 n 
+0000047456 00000 n 
+0000047496 00000 n 
+0000047635 00000 n 
+0000048115 00000 n 
+0000048359 00000 n 
+0000056158 00000 n 
+0000057036 00000 n 
+0000057178 00000 n 
+0000057705 00000 n 
+0000057953 00000 n 
+0000066841 00000 n 
+0000067796 00000 n 
+0000075427 00000 n 
+0000075447 00000 n 
+0000075571 00000 n 
+0000082139 00000 n 
+0000082376 00000 n 
+0000082416 00000 n 
+0000082557 00000 n 
+0000082850 00000 n 
+0000083054 00000 n 
+0000086235 00000 n 
+0000086784 00000 n 
+trailer
+<<
+/Size 36
+/Root 6 0 R
+/Info 2 0 R
+>>
+startxref
+86804
+%%EOF
